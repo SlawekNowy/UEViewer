@@ -1,0 +1,2947 @@
+Memory information:
+131966022 bytes allocated in 105614 blocks from 410 points
+
+31575 blocks 44956656 bytes
+    FArray::Empty+A7
+    FArray::SerializeSimple+82
+    operator<<+30
+    TArray<FQuat>::SerializeArray+1D
+    SerializeBulkArray+FB
+    TArray<FQuat>::BulkSerialize+24
+    operator<<+A8
+    TArray<FRawAnimSequenceTrack>::SerializeItem+4F
+    FArray::Serialize+D5
+    operator<<+9E
+    UAnimSequence::Serialize+18B
+    UObject::EndLoad+121
+    LoadWholePackage+B7
+    CUmodelApp::ShowPackageUI+3E9
+    main+BEA
+    __scrt_common_main_seh+10C
+
+485 blocks 27338952 bytes
+    FArray::Empty+A7
+    FArray::SerializeSimple+82
+    operator<<+30
+    UAnimSequence::Serialize+1DB
+    UObject::EndLoad+121
+    LoadWholePackage+B7
+    CUmodelApp::ShowPackageUI+3E9
+    main+BEA
+    __scrt_common_main_seh+10C
+    BaseThreadInitThunk+14
+    RtlUserThreadStart+21
+
+535 blocks 17265664 bytes
+    FArray::Empty+A7
+    FArray::Serialize+7D
+    operator<<+90
+    operator<<+58
+    TArray<FSkelMeshChunk3>::SerializeItem+4F
+    FArray::Serialize+D5
+    operator<<+9E
+    operator<<+3E6
+    TArray<FStaticLODModel3>::SerializeItem+4F
+    FArray::Serialize+D5
+    operator<<+9E
+    USkeletalMesh3::Serialize+92B
+    UObject::EndLoad+121
+    LoadWholePackage+B7
+    CUmodelApp::ShowPackageUI+3E9
+    main+BEA
+
+175 blocks 16996224 bytes
+    FArray::Empty+A7
+    FArray::Serialize+7D
+    operator<<+9E
+    TArray<FGPUVert3Half>::SerializeArray+1D
+    SerializeBulkArray+FB
+    TArray<FGPUVert3Half>::BulkSerialize+24
+    operator<<+50D
+    operator<<+9CC
+    TArray<FStaticLODModel3>::SerializeItem+4F
+    FArray::Serialize+D5
+    operator<<+9E
+    USkeletalMesh3::Serialize+92B
+    UObject::EndLoad+121
+    LoadWholePackage+B7
+    CUmodelApp::ShowPackageUI+3E9
+    main+BEA
+
+152 blocks 5733216 bytes
+    FArray::Empty+A7
+    FArray::Serialize+7D
+    operator<<+90
+    operator<<+68
+    TArray<FSkelMeshChunk3>::SerializeItem+4F
+    FArray::Serialize+D5
+    operator<<+9E
+    operator<<+3E6
+    TArray<FStaticLODModel3>::SerializeItem+4F
+    FArray::Serialize+D5
+    operator<<+9E
+    USkeletalMesh3::Serialize+92B
+    UObject::EndLoad+121
+    LoadWholePackage+B7
+    CUmodelApp::ShowPackageUI+3E9
+    main+BEA
+
+31575 blocks 4078860 bytes
+    FArray::Empty+A7
+    FArray::SerializeSimple+82
+    operator<<+30
+    TArray<FVector>::SerializeArray+1D
+    SerializeBulkArray+FB
+    TArray<FVector>::BulkSerialize+24
+    operator<<+92
+    TArray<FRawAnimSequenceTrack>::SerializeItem+4F
+    FArray::Serialize+D5
+    operator<<+9E
+    UAnimSequence::Serialize+18B
+    UObject::EndLoad+121
+    LoadWholePackage+B7
+    CUmodelApp::ShowPackageUI+3E9
+    main+BEA
+    __scrt_common_main_seh+10C
+
+1 blocks 3777960 bytes
+    operator new+17
+    UnPackage::LoadExportTable+5B
+    UnPackage::UnPackage+357
+    UnPackage::LoadPackage+D5
+    CUmodelApp::ShowPackageUI+188
+    main+BEA
+    __scrt_common_main_seh+10C
+    BaseThreadInitThunk+14
+    RtlUserThreadStart+21
+
+174 blocks 2657208 bytes
+    FArray::Empty+A7
+    FArray::SerializeSimple+82
+    operator<<+30
+    TArray<unsigned short>::SerializeArray+1D
+    SerializeBulkArray+FB
+    TArray<unsigned short>::BulkSerialize+24
+    operator<<+115
+    operator<<+FC
+    TArray<FStaticLODModel3>::SerializeItem+4F
+    FArray::Serialize+D5
+    operator<<+9E
+    USkeletalMesh3::Serialize+92B
+    UObject::EndLoad+121
+    LoadWholePackage+B7
+    CUmodelApp::ShowPackageUI+3E9
+    main+BEA
+
+485 blocks 2020800 bytes
+    FArray::Empty+A7
+    FArray::Serialize+7D
+    operator<<+9E
+    UAnimSequence::Serialize+18B
+    UObject::EndLoad+121
+    LoadWholePackage+B7
+    CUmodelApp::ShowPackageUI+3E9
+    main+BEA
+    __scrt_common_main_seh+10C
+    BaseThreadInitThunk+14
+    RtlUserThreadStart+21
+
+175 blocks 1416352 bytes
+    FByteBulkData::SerializeDataChunk+6F
+    FByteBulkData::SerializeData+2AE
+    FByteBulkData::Serialize+252
+    operator<<+6BF
+    TArray<FStaticLODModel3>::SerializeItem+4F
+    FArray::Serialize+D5
+    operator<<+9E
+    USkeletalMesh3::Serialize+92B
+    UObject::EndLoad+121
+    LoadWholePackage+B7
+    CUmodelApp::ShowPackageUI+3E9
+    main+BEA
+    __scrt_common_main_seh+10C
+    BaseThreadInitThunk+14
+    RtlUserThreadStart+21
+
+63 blocks 1032192 bytes
+    CMemoryChain::operator new+3D
+    CMemoryChain::Alloc+9D
+    appStrdupPool+150
+    UnPackage::LoadNameTable+999
+    UnPackage::UnPackage+33D
+    UnPackage::LoadPackage+D5
+    CUmodelApp::ShowPackageUI+188
+    main+BEA
+    __scrt_common_main_seh+10C
+    BaseThreadInitThunk+14
+    RtlUserThreadStart+21
+
+86 blocks 973336 bytes
+    FArray::Empty+A7
+    FArray::SerializeSimple+82
+    operator<<+30
+    TArray<FColor>::SerializeArray+1D
+    SerializeBulkArray+FB
+    TArray<FColor>::BulkSerialize+24
+    operator<<+BEF
+    TArray<FStaticLODModel3>::SerializeItem+4F
+    FArray::Serialize+D5
+    operator<<+9E
+    USkeletalMesh3::Serialize+92B
+    UObject::EndLoad+121
+    LoadWholePackage+B7
+    CUmodelApp::ShowPackageUI+3E9
+    main+BEA
+    __scrt_common_main_seh+10C
+
+4007 blocks 945224 bytes
+    CreateClass+38
+    UnPackage::CreateExport+FF
+    LoadWholePackage+B0
+    CUmodelApp::ShowPackageUI+3E9
+    main+BEA
+    __scrt_common_main_seh+10C
+    BaseThreadInitThunk+14
+    RtlUserThreadStart+21
+
+485 blocks 496008 bytes
+    FArray::Empty+A7
+    FArray::SerializeSimple+82
+    operator<<+30
+    CTypeInfo::SerializeUnrealProps+C99
+    UObject::Serialize+301
+    UAnimSequence::Serialize+4A
+    UObject::EndLoad+121
+    LoadWholePackage+B7
+    CUmodelApp::ShowPackageUI+3E9
+    main+BEA
+    __scrt_common_main_seh+10C
+    BaseThreadInitThunk+14
+    RtlUserThreadStart+21
+
+31490 blocks 377880 bytes
+    FArray::Empty+A7
+    FArray::SerializeSimple+82
+    operator<<+30
+    TArray<FVector>::SerializeArray+1D
+    SerializeBulkArray+FB
+    TArray<FVector>::BulkSerialize+24
+    operator<<+F0
+    TArray<FRawAnimSequenceTrack>::SerializeItem+4F
+    FArray::Serialize+D5
+    operator<<+9E
+    UAnimSequence::Serialize+18B
+    UObject::EndLoad+121
+    LoadWholePackage+B7
+    CUmodelApp::ShowPackageUI+3E9
+    main+BEA
+    __scrt_common_main_seh+10C
+
+119 blocks 285120 bytes
+    FArray::Empty+A7
+    FArray::Serialize+7D
+    operator<<+9E
+    USkeletalMesh3::Serialize+7CC
+    UObject::EndLoad+121
+    LoadWholePackage+B7
+    CUmodelApp::ShowPackageUI+3E9
+    main+BEA
+    __scrt_common_main_seh+10C
+    BaseThreadInitThunk+14
+    RtlUserThreadStart+21
+
+16 blocks 262144 bytes
+    CMemoryChain::operator new+3D
+    CMemoryChain::Alloc+9D
+    appStrdupPool+150
+    UnPackage::operator<<+20C
+    FObjectExport::Serialize3+2D3
+    operator<<+4F
+    UnPackage::LoadExportTable+F2
+    UnPackage::UnPackage+357
+    UnPackage::LoadPackage+D5
+    CUmodelApp::ShowPackageUI+188
+    main+BEA
+    __scrt_common_main_seh+10C
+    BaseThreadInitThunk+14
+    RtlUserThreadStart+21
+
+1 blocks 228168 bytes
+    operator new+17
+    UnPackage::LoadNameTable+7C
+    UnPackage::UnPackage+33D
+    UnPackage::LoadPackage+D5
+    CUmodelApp::ShowPackageUI+188
+    main+BEA
+    __scrt_common_main_seh+10C
+    BaseThreadInitThunk+14
+    RtlUserThreadStart+21
+
+1 blocks 189288 bytes
+    FArray::Empty+A7
+    FArray::SerializeSimple+82
+    operator<<+30
+    TArray<unsigned int>::SerializeArray+1D
+    SerializeBulkArray+FB
+    TArray<unsigned int>::BulkSerialize+24
+    operator<<+168
+    operator<<+FC
+    TArray<FStaticLODModel3>::SerializeItem+4F
+    FArray::Serialize+D5
+    operator<<+9E
+    USkeletalMesh3::Serialize+92B
+    UObject::EndLoad+121
+    LoadWholePackage+B7
+    CUmodelApp::ShowPackageUI+3E9
+    main+BEA
+
+1 blocks 131072 bytes
+    operator new+17
+    FUE3ArchiveReader::PrepareBuffer+55F
+    FUE3ArchiveReader::Serialize+13D
+    UnPackage::Serialize+35
+    FArchive::ByteOrderSerialize+2D
+    operator<<+23
+    UObject::Serialize+23F
+    UAnimSet::Serialize+1D
+    UObject::EndLoad+121
+    LoadWholePackage+B7
+    CUmodelApp::ShowPackageUI+3E9
+    main+BEA
+    __scrt_common_main_seh+10C
+    BaseThreadInitThunk+14
+    RtlUserThreadStart+21
+
+1 blocks 114016 bytes
+    operator new+17
+    UnPackage::LoadImportTable+5B
+    UnPackage::UnPackage+34A
+    UnPackage::LoadPackage+D5
+    CUmodelApp::ShowPackageUI+188
+    main+BEA
+    __scrt_common_main_seh+10C
+    BaseThreadInitThunk+14
+    RtlUserThreadStart+21
+
+119 blocks 68600 bytes
+    FArray::Empty+A7
+    FArray::Serialize+7D
+    operator<<+9E
+    USkeletalMesh3::Serialize+92B
+    UObject::EndLoad+121
+    LoadWholePackage+B7
+    CUmodelApp::ShowPackageUI+3E9
+    main+BEA
+    __scrt_common_main_seh+10C
+    BaseThreadInitThunk+14
+    RtlUserThreadStart+21
+
+1 blocks 65536 bytes
+
+3 blocks 49152 bytes
+    CMemoryChain::operator new+3D
+    CMemoryChain::Alloc+9D
+    appStrdupPool+150
+    appRegisterGameFile+619
+    ScanGameDirectory+1FC
+    ScanGameDirectory+FE
+    ScanGameDirectory+FE
+    ScanGameDirectory+FE
+    appSetRootDirectory+6B
+    main+8FC
+    __scrt_common_main_seh+10C
+    BaseThreadInitThunk+14
+    RtlUserThreadStart+21
+
+3 blocks 49152 bytes
+    CMemoryChain::operator new+3D
+    CMemoryChain::Alloc+9D
+    appStrdupPool+150
+    appRegisterGameFile+619
+    ScanGameDirectory+1FC
+    ScanGameDirectory+FE
+    ScanGameDirectory+FE
+    ScanGameDirectory+FE
+    ScanGameDirectory+FE
+    appSetRootDirectory+6B
+    main+8FC
+    __scrt_common_main_seh+10C
+    BaseThreadInitThunk+14
+    RtlUserThreadStart+21
+
+175 blocks 38520 bytes
+    FArray::Empty+A7
+    FArray::Serialize+7D
+    operator<<+9E
+    operator<<+3E6
+    TArray<FStaticLODModel3>::SerializeItem+4F
+    FArray::Serialize+D5
+    operator<<+9E
+    USkeletalMesh3::Serialize+92B
+    UObject::EndLoad+121
+    LoadWholePackage+B7
+    CUmodelApp::ShowPackageUI+3E9
+    main+BEA
+    __scrt_common_main_seh+10C
+    BaseThreadInitThunk+14
+    RtlUserThreadStart+21
+
+458 blocks 36640 bytes
+    operator new+17
+    appRegisterGameFile+517
+    ScanGameDirectory+1FC
+    ScanGameDirectory+FE
+    ScanGameDirectory+FE
+    ScanGameDirectory+FE
+    appSetRootDirectory+6B
+    main+8FC
+    __scrt_common_main_seh+10C
+    BaseThreadInitThunk+14
+    RtlUserThreadStart+21
+
+429 blocks 34320 bytes
+    operator new+17
+    appRegisterGameFile+517
+    ScanGameDirectory+1FC
+    ScanGameDirectory+FE
+    ScanGameDirectory+FE
+    ScanGameDirectory+FE
+    ScanGameDirectory+FE
+    appSetRootDirectory+6B
+    main+8FC
+    __scrt_common_main_seh+10C
+    BaseThreadInitThunk+14
+    RtlUserThreadStart+21
+
+1 blocks 32768 bytes
+    CMemoryChain::operator new+3D
+    appStrdupPool+F6
+    appRegisterGameFile+619
+    ScanGameDirectory+1FC
+    ScanGameDirectory+FE
+    ScanGameDirectory+FE
+    ScanGameDirectory+FE
+    appSetRootDirectory+6B
+    main+8FC
+    __scrt_common_main_seh+10C
+    BaseThreadInitThunk+14
+    RtlUserThreadStart+21
+
+1 blocks 32768 bytes
+    appRealloc+C3
+    FArray::GrowArray+EC
+    FArray::InsertUninitialized+36
+    TArray<UObject *>::Add+34
+    CreateClass+7A
+    UnPackage::CreateExport+FF
+    LoadWholePackage+B0
+    CUmodelApp::ShowPackageUI+3E9
+    main+BEA
+    __scrt_common_main_seh+10C
+    BaseThreadInitThunk+14
+    RtlUserThreadStart+21
+
+1 blocks 32768 bytes
+    appRealloc+C3
+    FArray::GrowArray+EC
+    FArray::InsertUninitialized+36
+    TArray<UObject *>::Add+34
+    UnPackage::CreateExport+2B1
+    LoadWholePackage+B0
+    CUmodelApp::ShowPackageUI+3E9
+    main+BEA
+    __scrt_common_main_seh+10C
+    BaseThreadInitThunk+14
+    RtlUserThreadStart+21
+
+1 blocks 18432 bytes
+    appRealloc+C3
+    FArray::GrowArray+EC
+    FArray::InsertUninitialized+36
+    TArray<UObject *>::Add+34
+    UObject::EndLoad+1B8
+    LoadWholePackage+B7
+    CUmodelApp::ShowPackageUI+3E9
+    main+BEA
+    __scrt_common_main_seh+10C
+    BaseThreadInitThunk+14
+    RtlUserThreadStart+21
+
+1 blocks 16384 bytes
+
+2 blocks 15560 bytes
+    operator new+17
+    UnPackage::LoadExportTable+5B
+    UnPackage::UnPackage+357
+    UnPackage::LoadPackage+D5
+    UnPackage::CreateImport+63
+    UnPackage::operator<<+AA
+    operator<<+26
+    TArray<UMaterial *>::SerializeItem+37
+    FArray::Serialize+D5
+    operator<<+90
+    UMaterial3::Serialize+2C2
+    UObject::EndLoad+121
+    LoadWholePackage+B7
+    CUmodelApp::ShowPackageUI+3E9
+    main+BEA
+    __scrt_common_main_seh+10C
+
+1 blocks 13696 bytes
+    FArray::Empty+A7
+    FArray::RawCopy+2C
+    CopyArray<CQuat,CQuat>+2C
+    FUE3ArchiveReader::FUE3ArchiveReader+D9
+    UnPackage::UnPackage+30F
+    UnPackage::LoadPackage+D5
+    CUmodelApp::ShowPackageUI+188
+    main+BEA
+    __scrt_common_main_seh+10C
+    BaseThreadInitThunk+14
+    RtlUserThreadStart+21
+
+1 blocks 13696 bytes
+    FArray::Empty+A7
+    FArray::Serialize+7D
+    operator<<+90
+    FPackageFileSummary::Serialize3+ED6
+    FPackageFileSummary::Serialize+364
+    UnPackage::UnPackage+F5
+    UnPackage::LoadPackage+D5
+    CUmodelApp::ShowPackageUI+188
+    main+BEA
+    __scrt_common_main_seh+10C
+    BaseThreadInitThunk+14
+    RtlUserThreadStart+21
+
+59 blocks 13592 bytes
+    CreateClass+38
+    UnPackage::CreateExport+FF
+    UnPackage::CreateExport+253
+    LoadWholePackage+B0
+    CUmodelApp::ShowPackageUI+3E9
+    main+BEA
+    __scrt_common_main_seh+10C
+    BaseThreadInitThunk+14
+    RtlUserThreadStart+21
+
+335 blocks 13536 bytes
+    FArray::Empty+A7
+    CTypeInfo::SerializeUnrealProps+EF8
+    UObject::Serialize+301
+    UMaterialInstance::Serialize+1D
+    UObject::EndLoad+121
+    LoadWholePackage+B7
+    CUmodelApp::ShowPackageUI+3E9
+    main+BEA
+    __scrt_common_main_seh+10C
+    BaseThreadInitThunk+14
+    RtlUserThreadStart+21
+
+1 blocks 11088 bytes
+    FArray::Empty+A7
+    FArray::Serialize+7D
+    TArray<FMorphTargetDelta>::Serialize2<&FMorphTargetDelta::Serialize3>+49
+    FMorphTargetLODModel::Serialize3+20
+    TArray<FMorphTargetLODModel>::SerializeItem2<&FMorphTargetLODModel::Serialize3>+4F
+    FArray::Serialize+D5
+    TArray<FMorphTargetLODModel>::Serialize2<&FMorphTargetLODModel::Serialize3>+57
+    UMorphTarget::Serialize3+33
+    UMorphTarget::Serialize+3C
+    UObject::EndLoad+121
+    LoadWholePackage+B7
+    CUmodelApp::ShowPackageUI+3E9
+    main+BEA
+    __scrt_common_main_seh+10C
+    BaseThreadInitThunk+14
+    RtlUserThreadStart+21
+
+40 blocks 9480 bytes
+    FArray::Empty+A7
+    FArray::Serialize+7D
+    operator<<+9E
+    CTypeInfo::SerializeUnrealProps+D89
+    UObject::Serialize+301
+    UAnimSet::Serialize+1D
+    UObject::EndLoad+121
+    LoadWholePackage+B7
+    CUmodelApp::ShowPackageUI+3E9
+    main+BEA
+    __scrt_common_main_seh+10C
+    BaseThreadInitThunk+14
+    RtlUserThreadStart+21
+
+175 blocks 8560 bytes
+    FArray::Empty+A7
+    FArray::Serialize+7D
+    operator<<+90
+    operator<<+EC
+    TArray<FStaticLODModel3>::SerializeItem+4F
+    FArray::Serialize+D5
+    operator<<+9E
+    USkeletalMesh3::Serialize+92B
+    UObject::EndLoad+121
+    LoadWholePackage+B7
+    CUmodelApp::ShowPackageUI+3E9
+    main+BEA
+    __scrt_common_main_seh+10C
+    BaseThreadInitThunk+14
+    RtlUserThreadStart+21
+
+1 blocks 8320 bytes
+    appRealloc+2B
+    FArray::GrowArray+EC
+    TArray<CGameFileInfo *>::ResizeTo+3D
+    TArray<CGameFileInfo *>::Reserve+29
+    appRegisterGameFile+907
+    ScanGameDirectory+1FC
+    ScanGameDirectory+FE
+    ScanGameDirectory+FE
+    ScanGameDirectory+FE
+    appSetRootDirectory+6B
+    main+8FC
+    __scrt_common_main_seh+10C
+    BaseThreadInitThunk+14
+    RtlUserThreadStart+21
+
+418 blocks 8040 bytes
+    FArray::Empty+A7
+    FArray::Serialize+7D
+    operator<<+90
+    UMaterial3::Serialize+2C2
+    UObject::EndLoad+121
+    LoadWholePackage+B7
+    CUmodelApp::ShowPackageUI+3E9
+    main+BEA
+    __scrt_common_main_seh+10C
+    BaseThreadInitThunk+14
+    RtlUserThreadStart+21
+
+119 blocks 7000 bytes
+    FArray::Empty+A7
+    CTypeInfo::SerializeUnrealProps+EF8
+    UObject::Serialize+301
+    USkeletalMesh3::Serialize+59
+    UObject::EndLoad+121
+    LoadWholePackage+B7
+    CUmodelApp::ShowPackageUI+3E9
+    main+BEA
+    __scrt_common_main_seh+10C
+    BaseThreadInitThunk+14
+    RtlUserThreadStart+21
+
+1 blocks 6656 bytes
+    appRealloc+C3
+    FArray::GrowArray+EC
+    FArray::InsertUninitialized+36
+    TArray<UObject *>::Add+34
+    <lambda_a3598565fed426d24e8789e7df087d5e>::operator()+22
+    <lambda_a3598565fed426d24e8789e7df087d5e>::<lambda_invoker_cdecl>+1F
+    appEnumGameFilesWorker+96
+    appEnumGameFiles<FindPackageWildcardData>+1F
+    UIPackageDialog::InitUI+B3B
+    UIBaseDialog::WndProc+D1
+    UIBaseDialog::StaticWndProc+8A
+    IsWindowInDestroy+A34
+    IsWindowInDestroy+192
+    UnpackDDElParam+8D9
+    CallWindowProcW+3BD
+    SendMessageW+38C
+
+92 blocks 6216 bytes
+    FArray::Empty+A7
+    FArray::Serialize+7D
+    operator<<+90
+    CTypeInfo::SerializeUnrealProps+D59
+    UObject::Serialize+301
+    USkeletalMesh3::Serialize+59
+    UObject::EndLoad+121
+    LoadWholePackage+B7
+    CUmodelApp::ShowPackageUI+3E9
+    main+BEA
+    __scrt_common_main_seh+10C
+    BaseThreadInitThunk+14
+    RtlUserThreadStart+21
+
+535 blocks 5634 bytes
+    FArray::Empty+A7
+    FArray::SerializeSimple+82
+    operator<<+30
+    operator<<+ED
+    TArray<FSkelMeshChunk3>::SerializeItem+4F
+    FArray::Serialize+D5
+    operator<<+9E
+    operator<<+3E6
+    TArray<FStaticLODModel3>::SerializeItem+4F
+    FArray::Serialize+D5
+    operator<<+9E
+    USkeletalMesh3::Serialize+92B
+    UObject::EndLoad+121
+    LoadWholePackage+B7
+    CUmodelApp::ShowPackageUI+3E9
+    main+BEA
+
+65 blocks 5200 bytes
+    operator new+17
+    appRegisterGameFile+517
+    ScanGameDirectory+1FC
+    ScanGameDirectory+FE
+    ScanGameDirectory+FE
+    appSetRootDirectory+6B
+    main+8FC
+    __scrt_common_main_seh+10C
+    BaseThreadInitThunk+14
+    RtlUserThreadStart+21
+
+1 blocks 5184 bytes
+    FArray::Empty+A7
+    FArray::Serialize+7D
+    operator<<+90
+    TArray<FkDOPTriangle3>::SerializeArray+1D
+    SerializeBulkArray+FB
+    TArray<FkDOPTriangle3>::BulkSerialize+24
+    UStaticMesh3::Serialize+537
+    UObject::EndLoad+121
+    LoadWholePackage+B7
+    CUmodelApp::ShowPackageUI+3E9
+    main+BEA
+    __scrt_common_main_seh+10C
+    BaseThreadInitThunk+14
+    RtlUserThreadStart+21
+
+175 blocks 4636 bytes
+    FArray::Empty+A7
+    FArray::SerializeSimple+82
+    operator<<+30
+    operator<<+362
+    TArray<FStaticLODModel3>::SerializeItem+4F
+    FArray::Serialize+D5
+    operator<<+9E
+    USkeletalMesh3::Serialize+92B
+    UObject::EndLoad+121
+    LoadWholePackage+B7
+    CUmodelApp::ShowPackageUI+3E9
+    main+BEA
+    __scrt_common_main_seh+10C
+    BaseThreadInitThunk+14
+    RtlUserThreadStart+21
+
+175 blocks 4409 bytes
+    FArray::Empty+A7
+    FArray::SerializeSimple+82
+    operator<<+30
+    operator<<+5B3
+    TArray<FStaticLODModel3>::SerializeItem+4F
+    FArray::Serialize+D5
+    operator<<+9E
+    USkeletalMesh3::Serialize+92B
+    UObject::EndLoad+121
+    LoadWholePackage+B7
+    CUmodelApp::ShowPackageUI+3E9
+    main+BEA
+    __scrt_common_main_seh+10C
+    BaseThreadInitThunk+14
+    RtlUserThreadStart+21
+
+1 blocks 4332 bytes
+    FArray::Empty+A7
+    FArray::SerializeSimple+82
+    operator<<+30
+    TArray<FVector>::SerializeArray+1D
+    SerializeBulkArray+FB
+    TArray<FVector>::BulkSerialize+24
+    operator<<+693
+    operator<<+4C3
+    TArray<FStaticMeshLODModel3>::SerializeItem+4F
+    FArray::Serialize+D5
+    operator<<+9E
+    UStaticMesh3::Serialize+9AA
+    UObject::EndLoad+121
+    LoadWholePackage+B7
+    CUmodelApp::ShowPackageUI+3E9
+    main+BEA
+
+1 blocks 4096 bytes
+    FFileArchive::OpenFile+4F
+    FFileReader::Open+13
+    FReaderWrapper::Open+21
+    UnPackage::Open+21
+    UnPackage::SetupReader+34
+    UObject::EndLoad+AA
+    LoadWholePackage+B7
+    CUmodelApp::ShowPackageUI+3E9
+    main+BEA
+    __scrt_common_main_seh+10C
+    BaseThreadInitThunk+14
+    RtlUserThreadStart+21
+
+1 blocks 4096 bytes
+    FFileArchive::OpenFile+4F
+    FFileReader::Open+13
+    FFileReader::FFileReader+7B
+    CUmodelSettings::Load+60
+    main+E0
+    __scrt_common_main_seh+10C
+    BaseThreadInitThunk+14
+    RtlUserThreadStart+21
+
+28 blocks 3880 bytes
+    FArray::Empty+A7
+    FArray::Serialize+7D
+    operator<<+90
+    CTypeInfo::SerializeUnrealProps+D59
+    UObject::Serialize+301
+    UAnimSet::Serialize+1D
+    UObject::EndLoad+121
+    LoadWholePackage+B7
+    CUmodelApp::ShowPackageUI+3E9
+    main+BEA
+    __scrt_common_main_seh+10C
+    BaseThreadInitThunk+14
+    RtlUserThreadStart+21
+
+48 blocks 3040 bytes
+    appRealloc+2B
+    FArray::GrowArray+EC
+    FArray::InsertUninitialized+36
+    TArray<unsigned char>::AddUninitialized+32
+    FString::operator=+7C
+    UITreeView::AddItem+10B
+    UIPackageDialog::InitUI+CBE
+    UIBaseDialog::WndProc+D1
+    UIBaseDialog::StaticWndProc+8A
+    IsWindowInDestroy+A34
+    IsWindowInDestroy+192
+    UnpackDDElParam+8D9
+    CallWindowProcW+3BD
+    SendMessageW+38C
+    LookupIconIdFromDirectoryEx+AAF
+    CreateDialogIndirectParamAorW+57
+
+2 blocks 2608 bytes
+    operator new+17
+    UnPackage::LoadNameTable+7C
+    UnPackage::UnPackage+33D
+    UnPackage::LoadPackage+D5
+    UnPackage::CreateImport+63
+    UnPackage::operator<<+AA
+    operator<<+26
+    TArray<UMaterial *>::SerializeItem+37
+    FArray::Serialize+D5
+    operator<<+90
+    UMaterial3::Serialize+2C2
+    UObject::EndLoad+121
+    LoadWholePackage+B7
+    CUmodelApp::ShowPackageUI+3E9
+    main+BEA
+    __scrt_common_main_seh+10C
+
+119 blocks 2424 bytes
+    FArray::Empty+A7
+    FArray::Serialize+7D
+    operator<<+90
+    USkeletalMesh3::Serialize+3B4
+    UObject::EndLoad+121
+    LoadWholePackage+B7
+    CUmodelApp::ShowPackageUI+3E9
+    main+BEA
+    __scrt_common_main_seh+10C
+    BaseThreadInitThunk+14
+    RtlUserThreadStart+21
+
+48 blocks 2304 bytes
+    operator new+17
+    UITreeView::AddItem+C8
+    UIPackageDialog::InitUI+CBE
+    UIBaseDialog::WndProc+D1
+    UIBaseDialog::StaticWndProc+8A
+    IsWindowInDestroy+A34
+    IsWindowInDestroy+192
+    UnpackDDElParam+8D9
+    CallWindowProcW+3BD
+    SendMessageW+38C
+    LookupIconIdFromDirectoryEx+AAF
+    CreateDialogIndirectParamAorW+57
+    CreateDialogIndirectParamA+1B
+    UIBaseDialog::ShowDialog+2C2
+    UIBaseDialog::ShowModal+36
+    UIPackageDialog::Show+41
+
+1 blocks 2048 bytes
+    operator new+17
+    UITreeView::UITreeView+10F
+    UIPackageDialog::InitUI+583
+    UIBaseDialog::WndProc+D1
+    UIBaseDialog::StaticWndProc+8A
+    IsWindowInDestroy+A34
+    IsWindowInDestroy+192
+    UnpackDDElParam+8D9
+    CallWindowProcW+3BD
+    SendMessageW+38C
+    LookupIconIdFromDirectoryEx+AAF
+    CreateDialogIndirectParamAorW+57
+    CreateDialogIndirectParamA+1B
+    UIBaseDialog::ShowDialog+2C2
+    UIBaseDialog::ShowModal+36
+    UIPackageDialog::Show+41
+
+2 blocks 1664 bytes
+    operator new+17
+    UnPackage::LoadImportTable+5B
+    UnPackage::UnPackage+34A
+    UnPackage::LoadPackage+D5
+    UnPackage::CreateImport+63
+    UnPackage::operator<<+AA
+    operator<<+26
+    TArray<UMaterial *>::SerializeItem+37
+    FArray::Serialize+D5
+    operator<<+90
+    UMaterial3::Serialize+2C2
+    UObject::EndLoad+121
+    LoadWholePackage+B7
+    CUmodelApp::ShowPackageUI+3E9
+    main+BEA
+    __scrt_common_main_seh+10C
+
+59 blocks 1296 bytes
+    FArray::Empty+A7
+    FArray::SerializeSimple+82
+    operator<<+30
+    CTypeInfo::SerializeUnrealProps+C99
+    CTypeInfo::SerializeUnrealProps+FC5
+    UObject::Serialize+301
+    USkeletalMesh3::Serialize+59
+    UObject::EndLoad+121
+    LoadWholePackage+B7
+    CUmodelApp::ShowPackageUI+3E9
+    main+BEA
+    __scrt_common_main_seh+10C
+    BaseThreadInitThunk+14
+    RtlUserThreadStart+21
+
+5 blocks 880 bytes
+    CreateClass+38
+    UnPackage::CreateExport+FF
+    UnPackage::CreateExport+253
+    UnPackage::CreateExport+253
+    LoadWholePackage+B0
+    CUmodelApp::ShowPackageUI+3E9
+    main+BEA
+    __scrt_common_main_seh+10C
+    BaseThreadInitThunk+14
+    RtlUserThreadStart+21
+
+10 blocks 800 bytes
+    operator new+17
+    appRegisterGameFile+517
+    ScanGameDirectory+1FC
+    ScanGameDirectory+FE
+    ScanGameDirectory+FE
+    ScanGameDirectory+FE
+    ScanGameDirectory+FE
+    ScanGameDirectory+FE
+    appSetRootDirectory+6B
+    main+8FC
+    __scrt_common_main_seh+10C
+    BaseThreadInitThunk+14
+    RtlUserThreadStart+21
+
+1 blocks 720 bytes
+    operator new+17
+    UIPackageDialog::CreatePackageListControl+1A
+    UIPackageDialog::InitUI+7AE
+    UIBaseDialog::WndProc+D1
+    UIBaseDialog::StaticWndProc+8A
+    IsWindowInDestroy+A34
+    IsWindowInDestroy+192
+    UnpackDDElParam+8D9
+    CallWindowProcW+3BD
+    SendMessageW+38C
+    LookupIconIdFromDirectoryEx+AAF
+    CreateDialogIndirectParamAorW+57
+    CreateDialogIndirectParamA+1B
+    UIBaseDialog::ShowDialog+2C2
+    UIBaseDialog::ShowModal+36
+    UIPackageDialog::Show+41
+
+1 blocks 720 bytes
+    operator new+17
+    UIPackageDialog::CreatePackageListControl+1A
+    UIPackageDialog::InitUI+806
+    UIBaseDialog::WndProc+D1
+    UIBaseDialog::StaticWndProc+8A
+    IsWindowInDestroy+A34
+    IsWindowInDestroy+192
+    UnpackDDElParam+8D9
+    CallWindowProcW+3BD
+    SendMessageW+38C
+    LookupIconIdFromDirectoryEx+AAF
+    CreateDialogIndirectParamAorW+57
+    CreateDialogIndirectParamA+1B
+    UIBaseDialog::ShowDialog+2C2
+    UIBaseDialog::ShowModal+36
+    UIPackageDialog::Show+41
+
+2 blocks 656 bytes
+    CreateClass+38
+    UnPackage::CreateExport+FF
+    UnPackage::CreateImport+309
+    UnPackage::operator<<+AA
+    operator<<+26
+    TArray<UMaterial *>::SerializeItem+37
+    FArray::Serialize+D5
+    operator<<+90
+    UMaterial3::Serialize+2C2
+    UObject::EndLoad+121
+    LoadWholePackage+B7
+    CUmodelApp::ShowPackageUI+3E9
+    main+BEA
+    __scrt_common_main_seh+10C
+    BaseThreadInitThunk+14
+    RtlUserThreadStart+21
+
+2 blocks 560 bytes
+    operator new+17
+    UnPackage::LoadPackage+7C
+    UnPackage::CreateImport+63
+    UnPackage::operator<<+AA
+    operator<<+26
+    TArray<UMaterial *>::SerializeItem+37
+    FArray::Serialize+D5
+    operator<<+90
+    UMaterial3::Serialize+2C2
+    UObject::EndLoad+121
+    LoadWholePackage+B7
+    CUmodelApp::ShowPackageUI+3E9
+    main+BEA
+    __scrt_common_main_seh+10C
+    BaseThreadInitThunk+14
+    RtlUserThreadStart+21
+
+175 blocks 535 bytes
+    FArray::Empty+A7
+    FArray::SerializeSimple+82
+    operator<<+30
+    CTypeInfo::SerializeUnrealProps+CC9
+    CTypeInfo::SerializeUnrealProps+FC5
+    UObject::Serialize+301
+    USkeletalMesh3::Serialize+59
+    UObject::EndLoad+121
+    LoadWholePackage+B7
+    CUmodelApp::ShowPackageUI+3E9
+    main+BEA
+    __scrt_common_main_seh+10C
+    BaseThreadInitThunk+14
+    RtlUserThreadStart+21
+
+1 blocks 512 bytes
+    appRealloc+C3
+    FArray::GrowArray+EC
+    FArray::InsertUninitialized+36
+    TArray<UObject *>::Add+34
+    UIPackageList::AddPackage+26
+    UIPackageList::FillPackageList+1A7
+    UIPackageDialog::OnTreeItemSelected+72
+    <lambda_873a3ef40b7f45578be3b00fa2920d5e>::operator()+2C
+    <lambda_873a3ef40b7f45578be3b00fa2920d5e>::<lambda_invoker_cdecl>+29
+    Callback<void __cdecl(UIMulticolumnListbox *,int &)>::operator()+3F
+    UITreeView::HandleCommand+C6
+    UIElement::HandleCommand+35
+    UIGroup::HandleCommand+88
+    UIPageControl::HandleCommand+8B
+    UIGroup::HandleCommand+88
+    UIGroup::HandleChildMessages+10B
+
+1 blocks 512 bytes
+    appRealloc+C3
+    FArray::GrowArray+EC
+    FArray::InsertUninitialized+36
+    TArray<UObject *>::Add+34
+    UITreeView::AddItem+180
+    UIPackageDialog::InitUI+CBE
+    UIBaseDialog::WndProc+D1
+    UIBaseDialog::StaticWndProc+8A
+    IsWindowInDestroy+A34
+    IsWindowInDestroy+192
+    UnpackDDElParam+8D9
+    CallWindowProcW+3BD
+    SendMessageW+38C
+    LookupIconIdFromDirectoryEx+AAF
+    CreateDialogIndirectParamAorW+57
+    CreateDialogIndirectParamA+1B
+
+1 blocks 512 bytes
+    appRealloc+2B
+    FArray::GrowArray+EC
+    FArray::InsertUninitialized+36
+    FArray::InsertZeroed+37
+    TArray<VertInfluences>::AddZeroed+32
+    UIMulticolumnListbox::UIMulticolumnListbox+1B0
+    UIPackageList::UIPackageList+22
+    UIPackageDialog::CreatePackageListControl+39
+    UIPackageDialog::InitUI+806
+    UIBaseDialog::WndProc+D1
+    UIBaseDialog::StaticWndProc+8A
+    IsWindowInDestroy+A34
+    IsWindowInDestroy+192
+    UnpackDDElParam+8D9
+    CallWindowProcW+3BD
+    SendMessageW+38C
+
+1 blocks 512 bytes
+    FArray::Empty+A7
+    TArray<CGameFileInfo const *>::Empty+3C
+    UnPackage::SetupReader+55
+    UObject::EndLoad+AA
+    LoadWholePackage+B7
+    CUmodelApp::ShowPackageUI+3E9
+    main+BEA
+    __scrt_common_main_seh+10C
+    BaseThreadInitThunk+14
+    RtlUserThreadStart+21
+
+1 blocks 512 bytes
+    appRealloc+2B
+    FArray::GrowArray+EC
+    FArray::InsertUninitialized+36
+    FArray::InsertZeroed+37
+    TArray<VertInfluences>::AddZeroed+32
+    UIMulticolumnListbox::UIMulticolumnListbox+1B0
+    UIPackageList::UIPackageList+22
+    UIPackageDialog::CreatePackageListControl+39
+    UIPackageDialog::InitUI+7AE
+    UIBaseDialog::WndProc+D1
+    UIBaseDialog::StaticWndProc+8A
+    IsWindowInDestroy+A34
+    IsWindowInDestroy+192
+    UnpackDDElParam+8D9
+    CallWindowProcW+3BD
+    SendMessageW+38C
+
+1 blocks 336 bytes
+    operator new+17
+    UIPackageDialog::InitUI+28A
+    UIBaseDialog::WndProc+D1
+    UIBaseDialog::StaticWndProc+8A
+    IsWindowInDestroy+A34
+    IsWindowInDestroy+192
+    UnpackDDElParam+8D9
+    CallWindowProcW+3BD
+    SendMessageW+38C
+    LookupIconIdFromDirectoryEx+AAF
+    CreateDialogIndirectParamAorW+57
+    CreateDialogIndirectParamA+1B
+    UIBaseDialog::ShowDialog+2C2
+    UIBaseDialog::ShowModal+36
+    UIPackageDialog::Show+41
+    CUmodelApp::ShowPackageUI+2F
+
+1 blocks 336 bytes
+    operator new+17
+    UIPackageDialog::InitUI+25
+    UIBaseDialog::WndProc+D1
+    UIBaseDialog::StaticWndProc+8A
+    IsWindowInDestroy+A34
+    IsWindowInDestroy+192
+    UnpackDDElParam+8D9
+    CallWindowProcW+3BD
+    SendMessageW+38C
+    LookupIconIdFromDirectoryEx+AAF
+    CreateDialogIndirectParamAorW+57
+    CreateDialogIndirectParamA+1B
+    UIBaseDialog::ShowDialog+2C2
+    UIBaseDialog::ShowModal+36
+    UIPackageDialog::Show+41
+    CUmodelApp::ShowPackageUI+2F
+
+1 blocks 336 bytes
+    operator new+17
+    UIPackageDialog::InitUI+128D
+    UIBaseDialog::WndProc+D1
+    UIBaseDialog::StaticWndProc+8A
+    IsWindowInDestroy+A34
+    IsWindowInDestroy+192
+    UnpackDDElParam+8D9
+    CallWindowProcW+3BD
+    SendMessageW+38C
+    LookupIconIdFromDirectoryEx+AAF
+    CreateDialogIndirectParamAorW+57
+    CreateDialogIndirectParamA+1B
+    UIBaseDialog::ShowDialog+2C2
+    UIBaseDialog::ShowModal+36
+    UIPackageDialog::Show+41
+    CUmodelApp::ShowPackageUI+2F
+
+1 blocks 336 bytes
+    operator new+17
+    UIPackageDialog::InitUI+F33
+    UIBaseDialog::WndProc+D1
+    UIBaseDialog::StaticWndProc+8A
+    IsWindowInDestroy+A34
+    IsWindowInDestroy+192
+    UnpackDDElParam+8D9
+    CallWindowProcW+3BD
+    SendMessageW+38C
+    LookupIconIdFromDirectoryEx+AAF
+    CreateDialogIndirectParamAorW+57
+    CreateDialogIndirectParamA+1B
+    UIBaseDialog::ShowDialog+2C2
+    UIBaseDialog::ShowModal+36
+    UIPackageDialog::Show+41
+    CUmodelApp::ShowPackageUI+2F
+
+1 blocks 280 bytes
+    operator new+17
+    UnPackage::LoadPackage+7C
+    CUmodelApp::ShowPackageUI+188
+    main+BEA
+    __scrt_common_main_seh+10C
+    BaseThreadInitThunk+14
+    RtlUserThreadStart+21
+
+1 blocks 264 bytes
+    operator new+17
+    NewMenuItem+13
+    UIPackageDialog::InitUI+3F4
+    UIBaseDialog::WndProc+D1
+    UIBaseDialog::StaticWndProc+8A
+    IsWindowInDestroy+A34
+    IsWindowInDestroy+192
+    UnpackDDElParam+8D9
+    CallWindowProcW+3BD
+    SendMessageW+38C
+    LookupIconIdFromDirectoryEx+AAF
+    CreateDialogIndirectParamAorW+57
+    CreateDialogIndirectParamA+1B
+    UIBaseDialog::ShowDialog+2C2
+    UIBaseDialog::ShowModal+36
+    UIPackageDialog::Show+41
+
+1 blocks 264 bytes
+    operator new+17
+    NewMenuItem+13
+    UIPackageDialog::InitUI+FF0
+    UIBaseDialog::WndProc+D1
+    UIBaseDialog::StaticWndProc+8A
+    IsWindowInDestroy+A34
+    IsWindowInDestroy+192
+    UnpackDDElParam+8D9
+    CallWindowProcW+3BD
+    SendMessageW+38C
+    LookupIconIdFromDirectoryEx+AAF
+    CreateDialogIndirectParamAorW+57
+    CreateDialogIndirectParamA+1B
+    UIBaseDialog::ShowDialog+2C2
+    UIBaseDialog::ShowModal+36
+    UIPackageDialog::Show+41
+
+1 blocks 264 bytes
+    operator new+17
+    NewMenuItem+13
+    UIPackageDialog::InitUI+EA
+    UIBaseDialog::WndProc+D1
+    UIBaseDialog::StaticWndProc+8A
+    IsWindowInDestroy+A34
+    IsWindowInDestroy+192
+    UnpackDDElParam+8D9
+    CallWindowProcW+3BD
+    SendMessageW+38C
+    LookupIconIdFromDirectoryEx+AAF
+    CreateDialogIndirectParamAorW+57
+    CreateDialogIndirectParamA+1B
+    UIBaseDialog::ShowDialog+2C2
+    UIBaseDialog::ShowModal+36
+    UIPackageDialog::Show+41
+
+1 blocks 264 bytes
+    operator new+17
+    NewMenuItem+13
+    UIPackageDialog::InitUI+103E
+    UIBaseDialog::WndProc+D1
+    UIBaseDialog::StaticWndProc+8A
+    IsWindowInDestroy+A34
+    IsWindowInDestroy+192
+    UnpackDDElParam+8D9
+    CallWindowProcW+3BD
+    SendMessageW+38C
+    LookupIconIdFromDirectoryEx+AAF
+    CreateDialogIndirectParamAorW+57
+    CreateDialogIndirectParamA+1B
+    UIBaseDialog::ShowDialog+2C2
+    UIBaseDialog::ShowModal+36
+    UIPackageDialog::Show+41
+
+1 blocks 264 bytes
+    operator new+17
+    NewMenuSeparator+E
+    UIPackageDialog::InitUI+105E
+    UIBaseDialog::WndProc+D1
+    UIBaseDialog::StaticWndProc+8A
+    IsWindowInDestroy+A34
+    IsWindowInDestroy+192
+    UnpackDDElParam+8D9
+    CallWindowProcW+3BD
+    SendMessageW+38C
+    LookupIconIdFromDirectoryEx+AAF
+    CreateDialogIndirectParamAorW+57
+    CreateDialogIndirectParamA+1B
+    UIBaseDialog::ShowDialog+2C2
+    UIBaseDialog::ShowModal+36
+    UIPackageDialog::Show+41
+
+1 blocks 264 bytes
+    operator new+17
+    NewMenuItem+13
+    UIPackageDialog::InitUI+10A6
+    UIBaseDialog::WndProc+D1
+    UIBaseDialog::StaticWndProc+8A
+    IsWindowInDestroy+A34
+    IsWindowInDestroy+192
+    UnpackDDElParam+8D9
+    CallWindowProcW+3BD
+    SendMessageW+38C
+    LookupIconIdFromDirectoryEx+AAF
+    CreateDialogIndirectParamAorW+57
+    CreateDialogIndirectParamA+1B
+    UIBaseDialog::ShowDialog+2C2
+    UIBaseDialog::ShowModal+36
+    UIPackageDialog::Show+41
+
+1 blocks 264 bytes
+    operator new+17
+    NewMenuSeparator+E
+    UIPackageDialog::InitUI+10E6
+    UIBaseDialog::WndProc+D1
+    UIBaseDialog::StaticWndProc+8A
+    IsWindowInDestroy+A34
+    IsWindowInDestroy+192
+    UnpackDDElParam+8D9
+    CallWindowProcW+3BD
+    SendMessageW+38C
+    LookupIconIdFromDirectoryEx+AAF
+    CreateDialogIndirectParamAorW+57
+    CreateDialogIndirectParamA+1B
+    UIBaseDialog::ShowDialog+2C2
+    UIBaseDialog::ShowModal+36
+    UIPackageDialog::Show+41
+
+1 blocks 264 bytes
+    operator new+17
+    NewMenuItem+13
+    UIPackageDialog::InitUI+12E
+    UIBaseDialog::WndProc+D1
+    UIBaseDialog::StaticWndProc+8A
+    IsWindowInDestroy+A34
+    IsWindowInDestroy+192
+    UnpackDDElParam+8D9
+    CallWindowProcW+3BD
+    SendMessageW+38C
+    LookupIconIdFromDirectoryEx+AAF
+    CreateDialogIndirectParamAorW+57
+    CreateDialogIndirectParamA+1B
+    UIBaseDialog::ShowDialog+2C2
+    UIBaseDialog::ShowModal+36
+    UIPackageDialog::Show+41
+
+1 blocks 264 bytes
+    operator new+17
+    NewMenuItem+13
+    UIPackageDialog::InitUI+110F
+    UIBaseDialog::WndProc+D1
+    UIBaseDialog::StaticWndProc+8A
+    IsWindowInDestroy+A34
+    IsWindowInDestroy+192
+    UnpackDDElParam+8D9
+    CallWindowProcW+3BD
+    SendMessageW+38C
+    LookupIconIdFromDirectoryEx+AAF
+    CreateDialogIndirectParamAorW+57
+    CreateDialogIndirectParamA+1B
+    UIBaseDialog::ShowDialog+2C2
+    UIBaseDialog::ShowModal+36
+    UIPackageDialog::Show+41
+
+1 blocks 264 bytes
+    operator new+17
+    NewMenuItem+13
+    UIPackageDialog::InitUI+117A
+    UIBaseDialog::WndProc+D1
+    UIBaseDialog::StaticWndProc+8A
+    IsWindowInDestroy+A34
+    IsWindowInDestroy+192
+    UnpackDDElParam+8D9
+    CallWindowProcW+3BD
+    SendMessageW+38C
+    LookupIconIdFromDirectoryEx+AAF
+    CreateDialogIndirectParamAorW+57
+    CreateDialogIndirectParamA+1B
+    UIBaseDialog::ShowDialog+2C2
+    UIBaseDialog::ShowModal+36
+    UIPackageDialog::Show+41
+
+1 blocks 264 bytes
+    operator new+17
+    NewMenuItem+13
+    UIPackageDialog::InitUI+448
+    UIBaseDialog::WndProc+D1
+    UIBaseDialog::StaticWndProc+8A
+    IsWindowInDestroy+A34
+    IsWindowInDestroy+192
+    UnpackDDElParam+8D9
+    CallWindowProcW+3BD
+    SendMessageW+38C
+    LookupIconIdFromDirectoryEx+AAF
+    CreateDialogIndirectParamAorW+57
+    CreateDialogIndirectParamA+1B
+    UIBaseDialog::ShowDialog+2C2
+    UIBaseDialog::ShowModal+36
+    UIPackageDialog::Show+41
+
+1 blocks 264 bytes
+    operator new+17
+    NewMenuItem+13
+    UIPackageDialog::InitUI+130C
+    UIBaseDialog::WndProc+D1
+    UIBaseDialog::StaticWndProc+8A
+    IsWindowInDestroy+A34
+    IsWindowInDestroy+192
+    UnpackDDElParam+8D9
+    CallWindowProcW+3BD
+    SendMessageW+38C
+    LookupIconIdFromDirectoryEx+AAF
+    CreateDialogIndirectParamAorW+57
+    CreateDialogIndirectParamA+1B
+    UIBaseDialog::ShowDialog+2C2
+    UIBaseDialog::ShowModal+36
+    UIPackageDialog::Show+41
+
+1 blocks 264 bytes
+    operator new+17
+    NewMenuSeparator+E
+    UIPackageDialog::InitUI+B9
+    UIBaseDialog::WndProc+D1
+    UIBaseDialog::StaticWndProc+8A
+    IsWindowInDestroy+A34
+    IsWindowInDestroy+192
+    UnpackDDElParam+8D9
+    CallWindowProcW+3BD
+    SendMessageW+38C
+    LookupIconIdFromDirectoryEx+AAF
+    CreateDialogIndirectParamAorW+57
+    CreateDialogIndirectParamA+1B
+    UIBaseDialog::ShowDialog+2C2
+    UIBaseDialog::ShowModal+36
+    UIPackageDialog::Show+41
+
+1 blocks 264 bytes
+    operator new+17
+    NewMenuItem+13
+    UIPackageDialog::InitUI+172
+    UIBaseDialog::WndProc+D1
+    UIBaseDialog::StaticWndProc+8A
+    IsWindowInDestroy+A34
+    IsWindowInDestroy+192
+    UnpackDDElParam+8D9
+    CallWindowProcW+3BD
+    SendMessageW+38C
+    LookupIconIdFromDirectoryEx+AAF
+    CreateDialogIndirectParamAorW+57
+    CreateDialogIndirectParamA+1B
+    UIBaseDialog::ShowDialog+2C2
+    UIBaseDialog::ShowModal+36
+    UIPackageDialog::Show+41
+
+1 blocks 264 bytes
+    operator new+17
+    NewMenuItem+13
+    UIPackageDialog::InitUI+1360
+    UIBaseDialog::WndProc+D1
+    UIBaseDialog::StaticWndProc+8A
+    IsWindowInDestroy+A34
+    IsWindowInDestroy+192
+    UnpackDDElParam+8D9
+    CallWindowProcW+3BD
+    SendMessageW+38C
+    LookupIconIdFromDirectoryEx+AAF
+    CreateDialogIndirectParamAorW+57
+    CreateDialogIndirectParamA+1B
+    UIBaseDialog::ShowDialog+2C2
+    UIBaseDialog::ShowModal+36
+    UIPackageDialog::Show+41
+
+1 blocks 264 bytes
+    operator new+17
+    NewMenuSeparator+E
+    UIPackageDialog::InitUI+35F
+    UIBaseDialog::WndProc+D1
+    UIBaseDialog::StaticWndProc+8A
+    IsWindowInDestroy+A34
+    IsWindowInDestroy+192
+    UnpackDDElParam+8D9
+    CallWindowProcW+3BD
+    SendMessageW+38C
+    LookupIconIdFromDirectoryEx+AAF
+    CreateDialogIndirectParamAorW+57
+    CreateDialogIndirectParamA+1B
+    UIBaseDialog::ShowDialog+2C2
+    UIBaseDialog::ShowModal+36
+    UIPackageDialog::Show+41
+
+1 blocks 264 bytes
+    operator new+17
+    NewMenuItem+13
+    UIPackageDialog::InitUI+1B6
+    UIBaseDialog::WndProc+D1
+    UIBaseDialog::StaticWndProc+8A
+    IsWindowInDestroy+A34
+    IsWindowInDestroy+192
+    UnpackDDElParam+8D9
+    CallWindowProcW+3BD
+    SendMessageW+38C
+    LookupIconIdFromDirectoryEx+AAF
+    CreateDialogIndirectParamAorW+57
+    CreateDialogIndirectParamA+1B
+    UIBaseDialog::ShowDialog+2C2
+    UIBaseDialog::ShowModal+36
+    UIPackageDialog::Show+41
+
+1 blocks 264 bytes
+    operator new+17
+    NewMenuItem+13
+    UIPackageDialog::InitUI+99
+    UIBaseDialog::WndProc+D1
+    UIBaseDialog::StaticWndProc+8A
+    IsWindowInDestroy+A34
+    IsWindowInDestroy+192
+    UnpackDDElParam+8D9
+    CallWindowProcW+3BD
+    SendMessageW+38C
+    LookupIconIdFromDirectoryEx+AAF
+    CreateDialogIndirectParamAorW+57
+    CreateDialogIndirectParamA+1B
+    UIBaseDialog::ShowDialog+2C2
+    UIBaseDialog::ShowModal+36
+    UIPackageDialog::Show+41
+
+1 blocks 264 bytes
+    operator new+17
+    NewMenuItem+13
+    UIPackageDialog::InitUI+33F
+    UIBaseDialog::WndProc+D1
+    UIBaseDialog::StaticWndProc+8A
+    IsWindowInDestroy+A34
+    IsWindowInDestroy+192
+    UnpackDDElParam+8D9
+    CallWindowProcW+3BD
+    SendMessageW+38C
+    LookupIconIdFromDirectoryEx+AAF
+    CreateDialogIndirectParamAorW+57
+    CreateDialogIndirectParamA+1B
+    UIBaseDialog::ShowDialog+2C2
+    UIBaseDialog::ShowModal+36
+    UIPackageDialog::Show+41
+
+1 blocks 264 bytes
+    operator new+17
+    NewMenuItem+13
+    UIPackageDialog::InitUI+3A0
+    UIBaseDialog::WndProc+D1
+    UIBaseDialog::StaticWndProc+8A
+    IsWindowInDestroy+A34
+    IsWindowInDestroy+192
+    UnpackDDElParam+8D9
+    CallWindowProcW+3BD
+    SendMessageW+38C
+    LookupIconIdFromDirectoryEx+AAF
+    CreateDialogIndirectParamAorW+57
+    CreateDialogIndirectParamA+1B
+    UIBaseDialog::ShowDialog+2C2
+    UIBaseDialog::ShowModal+36
+    UIPackageDialog::Show+41
+
+1 blocks 264 bytes
+    operator new+17
+    NewMenuSeparator+E
+    UIPackageDialog::InitUI+30E
+    UIBaseDialog::WndProc+D1
+    UIBaseDialog::StaticWndProc+8A
+    IsWindowInDestroy+A34
+    IsWindowInDestroy+192
+    UnpackDDElParam+8D9
+    CallWindowProcW+3BD
+    SendMessageW+38C
+    LookupIconIdFromDirectoryEx+AAF
+    CreateDialogIndirectParamAorW+57
+    CreateDialogIndirectParamA+1B
+    UIBaseDialog::ShowDialog+2C2
+    UIBaseDialog::ShowModal+36
+    UIPackageDialog::Show+41
+
+1 blocks 264 bytes
+    operator new+17
+    NewMenuItem+13
+    UIPackageDialog::InitUI+2EE
+    UIBaseDialog::WndProc+D1
+    UIBaseDialog::StaticWndProc+8A
+    IsWindowInDestroy+A34
+    IsWindowInDestroy+192
+    UnpackDDElParam+8D9
+    CallWindowProcW+3BD
+    SendMessageW+38C
+    LookupIconIdFromDirectoryEx+AAF
+    CreateDialogIndirectParamAorW+57
+    CreateDialogIndirectParamA+1B
+    UIBaseDialog::ShowDialog+2C2
+    UIBaseDialog::ShowModal+36
+    UIPackageDialog::Show+41
+
+1 blocks 264 bytes
+    operator new+17
+    NewMenuSeparator+E
+    UIPackageDialog::InitUI+1010
+    UIBaseDialog::WndProc+D1
+    UIBaseDialog::StaticWndProc+8A
+    IsWindowInDestroy+A34
+    IsWindowInDestroy+192
+    UnpackDDElParam+8D9
+    CallWindowProcW+3BD
+    SendMessageW+38C
+    LookupIconIdFromDirectoryEx+AAF
+    CreateDialogIndirectParamAorW+57
+    CreateDialogIndirectParamA+1B
+    UIBaseDialog::ShowDialog+2C2
+    UIBaseDialog::ShowModal+36
+    UIPackageDialog::Show+41
+
+2 blocks 256 bytes
+    operator new+17
+    CGameFileInfo::CreateReader+53
+    UnPackage::LoadPackage+93
+    UnPackage::CreateImport+63
+    UnPackage::operator<<+AA
+    operator<<+26
+    TArray<UMaterial *>::SerializeItem+37
+    FArray::Serialize+D5
+    operator<<+90
+    UMaterial3::Serialize+2C2
+    UObject::EndLoad+121
+    LoadWholePackage+B7
+    CUmodelApp::ShowPackageUI+3E9
+    main+BEA
+    __scrt_common_main_seh+10C
+    BaseThreadInitThunk+14
+
+1 blocks 240 bytes
+    FArray::Empty+A7
+    FArray::Serialize+7D
+    operator<<+9E
+    UStaticMesh3::Serialize+9AA
+    UObject::EndLoad+121
+    LoadWholePackage+B7
+    CUmodelApp::ShowPackageUI+3E9
+    main+BEA
+    __scrt_common_main_seh+10C
+    BaseThreadInitThunk+14
+    RtlUserThreadStart+21
+
+1 blocks 208 bytes
+    operator new+17
+    UIPackageDialog::InitUI+56C
+    UIBaseDialog::WndProc+D1
+    UIBaseDialog::StaticWndProc+8A
+    IsWindowInDestroy+A34
+    IsWindowInDestroy+192
+    UnpackDDElParam+8D9
+    CallWindowProcW+3BD
+    SendMessageW+38C
+    LookupIconIdFromDirectoryEx+AAF
+    CreateDialogIndirectParamAorW+57
+    CreateDialogIndirectParamA+1B
+    UIBaseDialog::ShowDialog+2C2
+    UIBaseDialog::ShowModal+36
+    UIPackageDialog::Show+41
+    CUmodelApp::ShowPackageUI+2F
+
+1 blocks 208 bytes
+    operator new+17
+    UIPackageDialog::InitUI+5DF
+    UIBaseDialog::WndProc+D1
+    UIBaseDialog::StaticWndProc+8A
+    IsWindowInDestroy+A34
+    IsWindowInDestroy+192
+    UnpackDDElParam+8D9
+    CallWindowProcW+3BD
+    SendMessageW+38C
+    LookupIconIdFromDirectoryEx+AAF
+    CreateDialogIndirectParamAorW+57
+    CreateDialogIndirectParamA+1B
+    UIBaseDialog::ShowDialog+2C2
+    UIBaseDialog::ShowModal+36
+    UIPackageDialog::Show+41
+    CUmodelApp::ShowPackageUI+2F
+
+1 blocks 200 bytes
+    operator new+17
+    UIProgressDialog::InitUI+2FC
+    UIBaseDialog::WndProc+D1
+    UIBaseDialog::StaticWndProc+8A
+    IsWindowInDestroy+A34
+    IsWindowInDestroy+192
+    UnpackDDElParam+8D9
+    CallWindowProcW+3BD
+    SendMessageW+38C
+    LookupIconIdFromDirectoryEx+AAF
+    CreateDialogIndirectParamAorW+57
+    CreateDialogIndirectParamA+1B
+    UIBaseDialog::ShowDialog+3B9
+    UIBaseDialog::ShowDialog+36
+    UIProgressDialog::Show+33
+    CUmodelApp::ShowPackageUI+A3
+
+1 blocks 200 bytes
+    operator new+17
+    UIPackageDialog::InitUI+1520
+    UIBaseDialog::WndProc+D1
+    UIBaseDialog::StaticWndProc+8A
+    IsWindowInDestroy+A34
+    IsWindowInDestroy+192
+    UnpackDDElParam+8D9
+    CallWindowProcW+3BD
+    SendMessageW+38C
+    LookupIconIdFromDirectoryEx+AAF
+    CreateDialogIndirectParamAorW+57
+    CreateDialogIndirectParamA+1B
+    UIBaseDialog::ShowDialog+2C2
+    UIBaseDialog::ShowModal+36
+    UIPackageDialog::Show+41
+    CUmodelApp::ShowPackageUI+2F
+
+1 blocks 200 bytes
+    operator new+17
+    UIProgressDialog::InitUI+CC
+    UIBaseDialog::WndProc+D1
+    UIBaseDialog::StaticWndProc+8A
+    IsWindowInDestroy+A34
+    IsWindowInDestroy+192
+    UnpackDDElParam+8D9
+    CallWindowProcW+3BD
+    SendMessageW+38C
+    LookupIconIdFromDirectoryEx+AAF
+    CreateDialogIndirectParamAorW+57
+    CreateDialogIndirectParamA+1B
+    UIBaseDialog::ShowDialog+3B9
+    UIBaseDialog::ShowDialog+36
+    UIProgressDialog::Show+33
+    CUmodelApp::ShowPackageUI+A3
+
+1 blocks 200 bytes
+    operator new+17
+    UIPackageDialog::InitUI+5A3
+    UIBaseDialog::WndProc+D1
+    UIBaseDialog::StaticWndProc+8A
+    IsWindowInDestroy+A34
+    IsWindowInDestroy+192
+    UnpackDDElParam+8D9
+    CallWindowProcW+3BD
+    SendMessageW+38C
+    LookupIconIdFromDirectoryEx+AAF
+    CreateDialogIndirectParamAorW+57
+    CreateDialogIndirectParamA+1B
+    UIBaseDialog::ShowDialog+2C2
+    UIBaseDialog::ShowModal+36
+    UIPackageDialog::Show+41
+    CUmodelApp::ShowPackageUI+2F
+
+1 blocks 200 bytes
+    operator new+17
+    UIProgressDialog::InitUI+2C0
+    UIBaseDialog::WndProc+D1
+    UIBaseDialog::StaticWndProc+8A
+    IsWindowInDestroy+A34
+    IsWindowInDestroy+192
+    UnpackDDElParam+8D9
+    CallWindowProcW+3BD
+    SendMessageW+38C
+    LookupIconIdFromDirectoryEx+AAF
+    CreateDialogIndirectParamAorW+57
+    CreateDialogIndirectParamA+1B
+    UIBaseDialog::ShowDialog+3B9
+    UIBaseDialog::ShowDialog+36
+    UIProgressDialog::Show+33
+    CUmodelApp::ShowPackageUI+A3
+
+1 blocks 200 bytes
+    operator new+17
+    UIPackageDialog::InitUI+74E
+    UIBaseDialog::WndProc+D1
+    UIBaseDialog::StaticWndProc+8A
+    IsWindowInDestroy+A34
+    IsWindowInDestroy+192
+    UnpackDDElParam+8D9
+    CallWindowProcW+3BD
+    SendMessageW+38C
+    LookupIconIdFromDirectoryEx+AAF
+    CreateDialogIndirectParamAorW+57
+    CreateDialogIndirectParamA+1B
+    UIBaseDialog::ShowDialog+2C2
+    UIBaseDialog::ShowModal+36
+    UIPackageDialog::Show+41
+    CUmodelApp::ShowPackageUI+2F
+
+1 blocks 200 bytes
+    operator new+17
+    UIProgressDialog::InitUI+1C6
+    UIBaseDialog::WndProc+D1
+    UIBaseDialog::StaticWndProc+8A
+    IsWindowInDestroy+A34
+    IsWindowInDestroy+192
+    UnpackDDElParam+8D9
+    CallWindowProcW+3BD
+    SendMessageW+38C
+    LookupIconIdFromDirectoryEx+AAF
+    CreateDialogIndirectParamAorW+57
+    CreateDialogIndirectParamA+1B
+    UIBaseDialog::ShowDialog+3B9
+    UIBaseDialog::ShowDialog+36
+    UIProgressDialog::Show+33
+    CUmodelApp::ShowPackageUI+A3
+
+1 blocks 200 bytes
+    operator new+17
+    UIProgressDialog::InitUI+454
+    UIBaseDialog::WndProc+D1
+    UIBaseDialog::StaticWndProc+8A
+    IsWindowInDestroy+A34
+    IsWindowInDestroy+192
+    UnpackDDElParam+8D9
+    CallWindowProcW+3BD
+    SendMessageW+38C
+    LookupIconIdFromDirectoryEx+AAF
+    CreateDialogIndirectParamAorW+57
+    CreateDialogIndirectParamA+1B
+    UIBaseDialog::ShowDialog+3B9
+    UIBaseDialog::ShowDialog+36
+    UIProgressDialog::Show+33
+    CUmodelApp::ShowPackageUI+A3
+
+2 blocks 193 bytes
+    appStrdup+2A
+    FFileArchive::FFileArchive+82
+    FFileReader::FFileReader+27
+    CGameFileInfo::CreateReader+72
+    UnPackage::LoadPackage+93
+    UnPackage::CreateImport+63
+    UnPackage::operator<<+AA
+    operator<<+26
+    TArray<UMaterial *>::SerializeItem+37
+    FArray::Serialize+D5
+    operator<<+90
+    UMaterial3::Serialize+2C2
+    UObject::EndLoad+121
+    LoadWholePackage+B7
+    CUmodelApp::ShowPackageUI+3E9
+    main+BEA
+
+1 blocks 192 bytes
+    operator new+17
+    UIPackageDialog::InitUI+6F3
+    UIBaseDialog::WndProc+D1
+    UIBaseDialog::StaticWndProc+8A
+    IsWindowInDestroy+A34
+    IsWindowInDestroy+192
+    UnpackDDElParam+8D9
+    CallWindowProcW+3BD
+    SendMessageW+38C
+    LookupIconIdFromDirectoryEx+AAF
+    CreateDialogIndirectParamAorW+57
+    CreateDialogIndirectParamA+1B
+    UIBaseDialog::ShowDialog+2C2
+    UIBaseDialog::ShowModal+36
+    UIPackageDialog::Show+41
+    CUmodelApp::ShowPackageUI+2F
+
+1 blocks 176 bytes
+    operator new+17
+    UIPackageDialog::InitUI+616
+    UIBaseDialog::WndProc+D1
+    UIBaseDialog::StaticWndProc+8A
+    IsWindowInDestroy+A34
+    IsWindowInDestroy+192
+    UnpackDDElParam+8D9
+    CallWindowProcW+3BD
+    SendMessageW+38C
+    LookupIconIdFromDirectoryEx+AAF
+    CreateDialogIndirectParamAorW+57
+    CreateDialogIndirectParamA+1B
+    UIBaseDialog::ShowDialog+2C2
+    UIBaseDialog::ShowModal+36
+    UIPackageDialog::Show+41
+    CUmodelApp::ShowPackageUI+2F
+
+1 blocks 160 bytes
+    operator new+17
+    UIPackageDialog::InitUI+13BA
+    UIBaseDialog::WndProc+D1
+    UIBaseDialog::StaticWndProc+8A
+    IsWindowInDestroy+A34
+    IsWindowInDestroy+192
+    UnpackDDElParam+8D9
+    CallWindowProcW+3BD
+    SendMessageW+38C
+    LookupIconIdFromDirectoryEx+AAF
+    CreateDialogIndirectParamAorW+57
+    CreateDialogIndirectParamA+1B
+    UIBaseDialog::ShowDialog+2C2
+    UIBaseDialog::ShowModal+36
+    UIPackageDialog::Show+41
+    CUmodelApp::ShowPackageUI+2F
+
+1 blocks 160 bytes
+    operator new+17
+    UIPackageDialog::InitUI+1401
+    UIBaseDialog::WndProc+D1
+    UIBaseDialog::StaticWndProc+8A
+    IsWindowInDestroy+A34
+    IsWindowInDestroy+192
+    UnpackDDElParam+8D9
+    CallWindowProcW+3BD
+    SendMessageW+38C
+    LookupIconIdFromDirectoryEx+AAF
+    CreateDialogIndirectParamAorW+57
+    CreateDialogIndirectParamA+1B
+    UIBaseDialog::ShowDialog+2C2
+    UIBaseDialog::ShowModal+36
+    UIPackageDialog::Show+41
+    CUmodelApp::ShowPackageUI+2F
+
+1 blocks 160 bytes
+    operator new+17
+    UIPackageDialog::InitUI+148F
+    UIBaseDialog::WndProc+D1
+    UIBaseDialog::StaticWndProc+8A
+    IsWindowInDestroy+A34
+    IsWindowInDestroy+192
+    UnpackDDElParam+8D9
+    CallWindowProcW+3BD
+    SendMessageW+38C
+    LookupIconIdFromDirectoryEx+AAF
+    CreateDialogIndirectParamAorW+57
+    CreateDialogIndirectParamA+1B
+    UIBaseDialog::ShowDialog+2C2
+    UIBaseDialog::ShowModal+36
+    UIPackageDialog::Show+41
+    CUmodelApp::ShowPackageUI+2F
+
+1 blocks 160 bytes
+    operator new+17
+    UIPackageDialog::InitUI+1448
+    UIBaseDialog::WndProc+D1
+    UIBaseDialog::StaticWndProc+8A
+    IsWindowInDestroy+A34
+    IsWindowInDestroy+192
+    UnpackDDElParam+8D9
+    CallWindowProcW+3BD
+    SendMessageW+38C
+    LookupIconIdFromDirectoryEx+AAF
+    CreateDialogIndirectParamAorW+57
+    CreateDialogIndirectParamA+1B
+    UIBaseDialog::ShowDialog+2C2
+    UIBaseDialog::ShowModal+36
+    UIPackageDialog::Show+41
+    CUmodelApp::ShowPackageUI+2F
+
+1 blocks 160 bytes
+    operator new+17
+    UIProgressDialog::InitUI+52
+    UIBaseDialog::WndProc+D1
+    UIBaseDialog::StaticWndProc+8A
+    IsWindowInDestroy+A34
+    IsWindowInDestroy+192
+    UnpackDDElParam+8D9
+    CallWindowProcW+3BD
+    SendMessageW+38C
+    LookupIconIdFromDirectoryEx+AAF
+    CreateDialogIndirectParamAorW+57
+    CreateDialogIndirectParamA+1B
+    UIBaseDialog::ShowDialog+3B9
+    UIBaseDialog::ShowDialog+36
+    UIProgressDialog::Show+33
+    CUmodelApp::ShowPackageUI+A3
+
+1 blocks 152 bytes
+    operator new+17
+    UnPackage::UnPackage+2CC
+    UnPackage::LoadPackage+D5
+    CUmodelApp::ShowPackageUI+188
+    main+BEA
+    __scrt_common_main_seh+10C
+    BaseThreadInitThunk+14
+    RtlUserThreadStart+21
+
+1 blocks 128 bytes
+    operator new+17
+    CGameFileInfo::CreateReader+53
+    UnPackage::LoadPackage+93
+    CUmodelApp::ShowPackageUI+188
+    main+BEA
+    __scrt_common_main_seh+10C
+    BaseThreadInitThunk+14
+    RtlUserThreadStart+21
+
+1 blocks 120 bytes
+    operator new+17
+    UIProgressDialog::InitUI+37E
+    UIBaseDialog::WndProc+D1
+    UIBaseDialog::StaticWndProc+8A
+    IsWindowInDestroy+A34
+    IsWindowInDestroy+192
+    UnpackDDElParam+8D9
+    CallWindowProcW+3BD
+    SendMessageW+38C
+    LookupIconIdFromDirectoryEx+AAF
+    CreateDialogIndirectParamAorW+57
+    CreateDialogIndirectParamA+1B
+    UIBaseDialog::ShowDialog+3B9
+    UIBaseDialog::ShowDialog+36
+    UIProgressDialog::Show+33
+    CUmodelApp::ShowPackageUI+A3
+
+1 blocks 120 bytes
+    operator new+17
+    UIProgressDialog::InitUI+40A
+    UIBaseDialog::WndProc+D1
+    UIBaseDialog::StaticWndProc+8A
+    IsWindowInDestroy+A34
+    IsWindowInDestroy+192
+    UnpackDDElParam+8D9
+    CallWindowProcW+3BD
+    SendMessageW+38C
+    LookupIconIdFromDirectoryEx+AAF
+    CreateDialogIndirectParamAorW+57
+    CreateDialogIndirectParamA+1B
+    UIBaseDialog::ShowDialog+3B9
+    UIBaseDialog::ShowDialog+36
+    UIProgressDialog::Show+33
+    CUmodelApp::ShowPackageUI+A3
+
+1 blocks 120 bytes
+    operator new+17
+    UIPackageDialog::InitUI+14D6
+    UIBaseDialog::WndProc+D1
+    UIBaseDialog::StaticWndProc+8A
+    IsWindowInDestroy+A34
+    IsWindowInDestroy+192
+    UnpackDDElParam+8D9
+    CallWindowProcW+3BD
+    SendMessageW+38C
+    LookupIconIdFromDirectoryEx+AAF
+    CreateDialogIndirectParamAorW+57
+    CreateDialogIndirectParamA+1B
+    UIBaseDialog::ShowDialog+2C2
+    UIBaseDialog::ShowModal+36
+    UIPackageDialog::Show+41
+    CUmodelApp::ShowPackageUI+2F
+
+1 blocks 120 bytes
+    operator new+17
+    UIProgressDialog::InitUI+202
+    UIBaseDialog::WndProc+D1
+    UIBaseDialog::StaticWndProc+8A
+    IsWindowInDestroy+A34
+    IsWindowInDestroy+192
+    UnpackDDElParam+8D9
+    CallWindowProcW+3BD
+    SendMessageW+38C
+    LookupIconIdFromDirectoryEx+AAF
+    CreateDialogIndirectParamAorW+57
+    CreateDialogIndirectParamA+1B
+    UIBaseDialog::ShowDialog+3B9
+    UIBaseDialog::ShowDialog+36
+    UIProgressDialog::Show+33
+    CUmodelApp::ShowPackageUI+A3
+
+1 blocks 120 bytes
+    operator new+17
+    UIProgressDialog::InitUI+27C
+    UIBaseDialog::WndProc+D1
+    UIBaseDialog::StaticWndProc+8A
+    IsWindowInDestroy+A34
+    IsWindowInDestroy+192
+    UnpackDDElParam+8D9
+    CallWindowProcW+3BD
+    SendMessageW+38C
+    LookupIconIdFromDirectoryEx+AAF
+    CreateDialogIndirectParamAorW+57
+    CreateDialogIndirectParamA+1B
+    UIBaseDialog::ShowDialog+3B9
+    UIBaseDialog::ShowDialog+36
+    UIProgressDialog::Show+33
+    CUmodelApp::ShowPackageUI+A3
+
+1 blocks 120 bytes
+    operator new+17
+    UIProgressDialog::InitUI+108
+    UIBaseDialog::WndProc+D1
+    UIBaseDialog::StaticWndProc+8A
+    IsWindowInDestroy+A34
+    IsWindowInDestroy+192
+    UnpackDDElParam+8D9
+    CallWindowProcW+3BD
+    SendMessageW+38C
+    LookupIconIdFromDirectoryEx+AAF
+    CreateDialogIndirectParamAorW+57
+    CreateDialogIndirectParamA+1B
+    UIBaseDialog::ShowDialog+3B9
+    UIBaseDialog::ShowDialog+36
+    UIProgressDialog::Show+33
+    CUmodelApp::ShowPackageUI+A3
+
+1 blocks 120 bytes
+    operator new+17
+    UIProgressDialog::InitUI+182
+    UIBaseDialog::WndProc+D1
+    UIBaseDialog::StaticWndProc+8A
+    IsWindowInDestroy+A34
+    IsWindowInDestroy+192
+    UnpackDDElParam+8D9
+    CallWindowProcW+3BD
+    SendMessageW+38C
+    LookupIconIdFromDirectoryEx+AAF
+    CreateDialogIndirectParamAorW+57
+    CreateDialogIndirectParamA+1B
+    UIBaseDialog::ShowDialog+3B9
+    UIBaseDialog::ShowDialog+36
+    UIProgressDialog::Show+33
+    CUmodelApp::ShowPackageUI+A3
+
+1 blocks 120 bytes
+    operator new+17
+    UIPackageDialog::InitUI+667
+    UIBaseDialog::WndProc+D1
+    UIBaseDialog::StaticWndProc+8A
+    IsWindowInDestroy+A34
+    IsWindowInDestroy+192
+    UnpackDDElParam+8D9
+    CallWindowProcW+3BD
+    SendMessageW+38C
+    LookupIconIdFromDirectoryEx+AAF
+    CreateDialogIndirectParamAorW+57
+    CreateDialogIndirectParamA+1B
+    UIBaseDialog::ShowDialog+2C2
+    UIBaseDialog::ShowModal+36
+    UIPackageDialog::Show+41
+    CUmodelApp::ShowPackageUI+2F
+
+1 blocks 104 bytes
+    operator new+17
+    UIProgressDialog::InitUI+33E
+    UIBaseDialog::WndProc+D1
+    UIBaseDialog::StaticWndProc+8A
+    IsWindowInDestroy+A34
+    IsWindowInDestroy+192
+    UnpackDDElParam+8D9
+    CallWindowProcW+3BD
+    SendMessageW+38C
+    LookupIconIdFromDirectoryEx+AAF
+    CreateDialogIndirectParamAorW+57
+    CreateDialogIndirectParamA+1B
+    UIBaseDialog::ShowDialog+3B9
+    UIBaseDialog::ShowDialog+36
+    UIProgressDialog::Show+33
+    CUmodelApp::ShowPackageUI+A3
+
+1 blocks 96 bytes
+    operator new+17
+    UIPackageDialog::InitUI+6B1
+    UIBaseDialog::WndProc+D1
+    UIBaseDialog::StaticWndProc+8A
+    IsWindowInDestroy+A34
+    IsWindowInDestroy+192
+    UnpackDDElParam+8D9
+    CallWindowProcW+3BD
+    SendMessageW+38C
+    LookupIconIdFromDirectoryEx+AAF
+    CreateDialogIndirectParamAorW+57
+    CreateDialogIndirectParamA+1B
+    UIBaseDialog::ShowDialog+2C2
+    UIBaseDialog::ShowModal+36
+    UIPackageDialog::Show+41
+    CUmodelApp::ShowPackageUI+2F
+
+1 blocks 96 bytes
+    operator new+17
+    UIProgressDialog::InitUI+243
+    UIBaseDialog::WndProc+D1
+    UIBaseDialog::StaticWndProc+8A
+    IsWindowInDestroy+A34
+    IsWindowInDestroy+192
+    UnpackDDElParam+8D9
+    CallWindowProcW+3BD
+    SendMessageW+38C
+    LookupIconIdFromDirectoryEx+AAF
+    CreateDialogIndirectParamAorW+57
+    CreateDialogIndirectParamA+1B
+    UIBaseDialog::ShowDialog+3B9
+    UIBaseDialog::ShowDialog+36
+    UIProgressDialog::Show+33
+    CUmodelApp::ShowPackageUI+A3
+
+1 blocks 96 bytes
+    operator new+17
+    UIProgressDialog::InitUI+16
+    UIBaseDialog::WndProc+D1
+    UIBaseDialog::StaticWndProc+8A
+    IsWindowInDestroy+A34
+    IsWindowInDestroy+192
+    UnpackDDElParam+8D9
+    CallWindowProcW+3BD
+    SendMessageW+38C
+    LookupIconIdFromDirectoryEx+AAF
+    CreateDialogIndirectParamAorW+57
+    CreateDialogIndirectParamA+1B
+    UIBaseDialog::ShowDialog+3B9
+    UIBaseDialog::ShowDialog+36
+    UIProgressDialog::Show+33
+    CUmodelApp::ShowPackageUI+A3
+
+1 blocks 96 bytes
+    operator new+17
+    UIProgressDialog::InitUI+90
+    UIBaseDialog::WndProc+D1
+    UIBaseDialog::StaticWndProc+8A
+    IsWindowInDestroy+A34
+    IsWindowInDestroy+192
+    UnpackDDElParam+8D9
+    CallWindowProcW+3BD
+    SendMessageW+38C
+    LookupIconIdFromDirectoryEx+AAF
+    CreateDialogIndirectParamAorW+57
+    CreateDialogIndirectParamA+1B
+    UIBaseDialog::ShowDialog+3B9
+    UIBaseDialog::ShowDialog+36
+    UIProgressDialog::Show+33
+    CUmodelApp::ShowPackageUI+A3
+
+1 blocks 96 bytes
+    operator new+17
+    UIProgressDialog::InitUI+3C8
+    UIBaseDialog::WndProc+D1
+    UIBaseDialog::StaticWndProc+8A
+    IsWindowInDestroy+A34
+    IsWindowInDestroy+192
+    UnpackDDElParam+8D9
+    CallWindowProcW+3BD
+    SendMessageW+38C
+    LookupIconIdFromDirectoryEx+AAF
+    CreateDialogIndirectParamAorW+57
+    CreateDialogIndirectParamA+1B
+    UIBaseDialog::ShowDialog+3B9
+    UIBaseDialog::ShowDialog+36
+    UIProgressDialog::Show+33
+    CUmodelApp::ShowPackageUI+A3
+
+1 blocks 96 bytes
+    operator new+17
+    UIProgressDialog::InitUI+149
+    UIBaseDialog::WndProc+D1
+    UIBaseDialog::StaticWndProc+8A
+    IsWindowInDestroy+A34
+    IsWindowInDestroy+192
+    UnpackDDElParam+8D9
+    CallWindowProcW+3BD
+    SendMessageW+38C
+    LookupIconIdFromDirectoryEx+AAF
+    CreateDialogIndirectParamAorW+57
+    CreateDialogIndirectParamA+1B
+    UIBaseDialog::ShowDialog+3B9
+    UIBaseDialog::ShowDialog+36
+    UIProgressDialog::Show+33
+    CUmodelApp::ShowPackageUI+A3
+
+1 blocks 84 bytes
+    appStrdup+2A
+    FFileArchive::FFileArchive+82
+    FFileReader::FFileReader+27
+    CGameFileInfo::CreateReader+72
+    UnPackage::LoadPackage+93
+    CUmodelApp::ShowPackageUI+188
+    main+BEA
+    __scrt_common_main_seh+10C
+    BaseThreadInitThunk+14
+    RtlUserThreadStart+21
+
+1 blocks 80 bytes
+    appRealloc+2B
+    FArray::GrowArray+EC
+    FArray::InsertUninitialized+36
+    TArray<unsigned char>::AddUninitialized+32
+    FString::FString+62
+    UILabel::UILabel+42
+    UIPackageDialog::InitUI+1500
+    UIBaseDialog::WndProc+D1
+    UIBaseDialog::StaticWndProc+8A
+    IsWindowInDestroy+A34
+    IsWindowInDestroy+192
+    UnpackDDElParam+8D9
+    CallWindowProcW+3BD
+    SendMessageW+38C
+    LookupIconIdFromDirectoryEx+AAF
+    CreateDialogIndirectParamAorW+57
+
+1 blocks 64 bytes
+    appRealloc+2B
+    FArray::GrowArray+EC
+    FArray::InsertUninitialized+36
+    TArray<unsigned char>::AddUninitialized+32
+    FString::operator=+7C
+    UIFilePathEditor::OnBrowseClicked+FA
+    <lambda_30068f75c5a514d31461328cd01619f6>::operator()+22
+    <lambda_30068f75c5a514d31461328cd01619f6>::<lambda_invoker_cdecl>+1F
+    Callback<void __cdecl(UIMulticolumnListbox *)>::operator()+35
+    UIButton::HandleCommand+4C
+    UIElement::HandleCommand+35
+    UIGroup::HandleCommand+88
+    UIGroup::HandleCommand+88
+    UIGroup::HandleChildMessages+10B
+    UIBaseDialog::WndProc+68E
+    UIBaseDialog::StaticWndProc+8A
+
+1 blocks 56 bytes
+    FArray::Empty+A7
+    FArray::Serialize+7D
+    operator<<+9E
+    operator<<+185
+    TArray<FStaticMeshLODModel3>::SerializeItem+4F
+    FArray::Serialize+D5
+    operator<<+9E
+    UStaticMesh3::Serialize+9AA
+    UObject::EndLoad+121
+    LoadWholePackage+B7
+    CUmodelApp::ShowPackageUI+3E9
+    main+BEA
+    __scrt_common_main_seh+10C
+    BaseThreadInitThunk+14
+    RtlUserThreadStart+21
+
+1 blocks 48 bytes
+    appRealloc+2B
+    FArray::GrowArray+EC
+    FArray::InsertUninitialized+36
+    TArray<unsigned char>::AddUninitialized+32
+    FString::operator=+7C
+    UILabel::SetText+46
+    UIProgressDialog::Progress+A2
+    CUmodelApp::ShowPackageUI+3A7
+    main+BEA
+    __scrt_common_main_seh+10C
+    BaseThreadInitThunk+14
+    RtlUserThreadStart+21
+
+1 blocks 48 bytes
+    appRealloc+2B
+    FArray::GrowArray+EC
+    FArray::InsertUninitialized+36
+    TArray<unsigned char>::AddUninitialized+32
+    FString::operator=+7C
+    SetPathOption+18A
+    CExportSettings::SetPath+20
+    CExportSettings::Reset+1A
+    CUmodelSettings::Reset+3C
+    CUmodelSettings::CUmodelSettings+46
+    `dynamic initializer for 'GSettings''+10
+    initterm+3E
+    __scrt_common_main_seh+81
+    BaseThreadInitThunk+14
+    RtlUserThreadStart+21
+
+1 blocks 48 bytes
+    appRealloc+2B
+    FArray::GrowArray+EC
+    FArray::InsertUninitialized+36
+    TArray<unsigned char>::AddUninitialized+32
+    FString::operator=+7C
+    SetPathOption+18A
+    CSavePackagesSettings::SetPath+20
+    CSavePackagesSettings::Reset+1A
+    CUmodelSettings::Reset+4D
+    CUmodelSettings::CUmodelSettings+46
+    `dynamic initializer for 'GSettings''+10
+    initterm+3E
+    __scrt_common_main_seh+81
+    BaseThreadInitThunk+14
+    RtlUserThreadStart+21
+
+1 blocks 48 bytes
+    operator new+17
+    UITreeView::RemoveAllItems+DD
+    UITreeView::UITreeView+12F
+    UIPackageDialog::InitUI+583
+    UIBaseDialog::WndProc+D1
+    UIBaseDialog::StaticWndProc+8A
+    IsWindowInDestroy+A34
+    IsWindowInDestroy+192
+    UnpackDDElParam+8D9
+    CallWindowProcW+3BD
+    SendMessageW+38C
+    LookupIconIdFromDirectoryEx+AAF
+    CreateDialogIndirectParamAorW+57
+    CreateDialogIndirectParamA+1B
+    UIBaseDialog::ShowDialog+2C2
+    UIBaseDialog::ShowModal+36
+
+1 blocks 40 bytes
+    FArray::Empty+A7
+    FArray::Serialize+7D
+    TArray<FMorphTargetLODModel>::Serialize2<&FMorphTargetLODModel::Serialize3>+57
+    UMorphTarget::Serialize3+33
+    UMorphTarget::Serialize+3C
+    UObject::EndLoad+121
+    LoadWholePackage+B7
+    CUmodelApp::ShowPackageUI+3E9
+    main+BEA
+    __scrt_common_main_seh+10C
+    BaseThreadInitThunk+14
+    RtlUserThreadStart+21
+
+1 blocks 32 bytes
+    appRealloc+2B
+    FArray::GrowArray+EC
+    FArray::InsertUninitialized+36
+    TArray<unsigned char>::AddUninitialized+32
+    FString::operator=+7C
+    UIMulticolumnListbox::AddColumn+8B
+    UIPackageList::UIPackageList+B7
+    UIPackageDialog::CreatePackageListControl+39
+    UIPackageDialog::InitUI+806
+    UIBaseDialog::WndProc+D1
+    UIBaseDialog::StaticWndProc+8A
+    IsWindowInDestroy+A34
+    IsWindowInDestroy+192
+    UnpackDDElParam+8D9
+    CallWindowProcW+3BD
+    SendMessageW+38C
+
+1 blocks 32 bytes
+    appRealloc+2B
+    FArray::GrowArray+EC
+    FArray::InsertUninitialized+36
+    TArray<unsigned char>::AddUninitialized+32
+    FString::operator=+7C
+    UIMulticolumnListbox::AddColumn+8B
+    UIPackageList::UIPackageList+D7
+    UIPackageDialog::CreatePackageListControl+39
+    UIPackageDialog::InitUI+806
+    UIBaseDialog::WndProc+D1
+    UIBaseDialog::StaticWndProc+8A
+    IsWindowInDestroy+A34
+    IsWindowInDestroy+192
+    UnpackDDElParam+8D9
+    CallWindowProcW+3BD
+    SendMessageW+38C
+
+1 blocks 32 bytes
+    appRealloc+2B
+    FArray::GrowArray+EC
+    FArray::InsertUninitialized+36
+    TArray<unsigned char>::AddUninitialized+32
+    FString::operator=+7C
+    UIMulticolumnListbox::AddColumn+8B
+    UIPackageList::UIPackageList+137
+    UIPackageDialog::CreatePackageListControl+39
+    UIPackageDialog::InitUI+7AE
+    UIBaseDialog::WndProc+D1
+    UIBaseDialog::StaticWndProc+8A
+    IsWindowInDestroy+A34
+    IsWindowInDestroy+192
+    UnpackDDElParam+8D9
+    CallWindowProcW+3BD
+    SendMessageW+38C
+
+1 blocks 32 bytes
+    appRealloc+2B
+    FArray::GrowArray+EC
+    FArray::InsertUninitialized+36
+    TArray<unsigned char>::AddUninitialized+32
+    FString::operator=+7C
+    UIMulticolumnListbox::AddColumn+8B
+    UIPackageList::UIPackageList+F7
+    UIPackageDialog::CreatePackageListControl+39
+    UIPackageDialog::InitUI+806
+    UIBaseDialog::WndProc+D1
+    UIBaseDialog::StaticWndProc+8A
+    IsWindowInDestroy+A34
+    IsWindowInDestroy+192
+    UnpackDDElParam+8D9
+    CallWindowProcW+3BD
+    SendMessageW+38C
+
+1 blocks 32 bytes
+    appRealloc+2B
+    FArray::GrowArray+EC
+    FArray::InsertUninitialized+36
+    TArray<unsigned char>::AddUninitialized+32
+    FString::FString+62
+    UILabel::UILabel+42
+    UIPackageDialog::InitUI+691
+    UIBaseDialog::WndProc+D1
+    UIBaseDialog::StaticWndProc+8A
+    IsWindowInDestroy+A34
+    IsWindowInDestroy+192
+    UnpackDDElParam+8D9
+    CallWindowProcW+3BD
+    SendMessageW+38C
+    LookupIconIdFromDirectoryEx+AAF
+    CreateDialogIndirectParamAorW+57
+
+1 blocks 32 bytes
+    appRealloc+2B
+    FArray::GrowArray+EC
+    FArray::InsertUninitialized+36
+    TArray<unsigned char>::AddUninitialized+32
+    FString::operator=+7C
+    UIMulticolumnListbox::AddColumn+8B
+    UIPackageList::UIPackageList+137
+    UIPackageDialog::CreatePackageListControl+39
+    UIPackageDialog::InitUI+806
+    UIBaseDialog::WndProc+D1
+    UIBaseDialog::StaticWndProc+8A
+    IsWindowInDestroy+A34
+    IsWindowInDestroy+192
+    UnpackDDElParam+8D9
+    CallWindowProcW+3BD
+    SendMessageW+38C
+
+1 blocks 32 bytes
+    appRealloc+2B
+    FArray::GrowArray+EC
+    FArray::InsertUninitialized+36
+    TArray<unsigned char>::AddUninitialized+32
+    FString::operator=+7C
+    UITreeView::SetRootLabel+26
+    UIPackageDialog::InitUI+891
+    UIBaseDialog::WndProc+D1
+    UIBaseDialog::StaticWndProc+8A
+    IsWindowInDestroy+A34
+    IsWindowInDestroy+192
+    UnpackDDElParam+8D9
+    CallWindowProcW+3BD
+    SendMessageW+38C
+    LookupIconIdFromDirectoryEx+AAF
+    CreateDialogIndirectParamAorW+57
+
+1 blocks 32 bytes
+    appRealloc+2B
+    FArray::GrowArray+EC
+    FArray::InsertUninitialized+36
+    TArray<unsigned char>::AddUninitialized+32
+    FString::operator=+7C
+    UIMulticolumnListbox::AddColumn+8B
+    UIPackageList::UIPackageList+F7
+    UIPackageDialog::CreatePackageListControl+39
+    UIPackageDialog::InitUI+7AE
+    UIBaseDialog::WndProc+D1
+    UIBaseDialog::StaticWndProc+8A
+    IsWindowInDestroy+A34
+    IsWindowInDestroy+192
+    UnpackDDElParam+8D9
+    CallWindowProcW+3BD
+    SendMessageW+38C
+
+1 blocks 32 bytes
+    appRealloc+2B
+    FArray::GrowArray+EC
+    FArray::InsertUninitialized+36
+    TArray<unsigned char>::AddUninitialized+32
+    FString::FString+62
+    UIButton::UIButton+52
+    UIPackageDialog::InitUI+13E1
+    UIBaseDialog::WndProc+D1
+    UIBaseDialog::StaticWndProc+8A
+    IsWindowInDestroy+A34
+    IsWindowInDestroy+192
+    UnpackDDElParam+8D9
+    CallWindowProcW+3BD
+    SendMessageW+38C
+    LookupIconIdFromDirectoryEx+AAF
+    CreateDialogIndirectParamAorW+57
+
+1 blocks 32 bytes
+    appRealloc+2B
+    FArray::GrowArray+EC
+    FArray::InsertUninitialized+36
+    TArray<unsigned char>::AddUninitialized+32
+    FString::FString+62
+    UIButton::UIButton+52
+    UIPackageDialog::InitUI+1428
+    UIBaseDialog::WndProc+D1
+    UIBaseDialog::StaticWndProc+8A
+    IsWindowInDestroy+A34
+    IsWindowInDestroy+192
+    UnpackDDElParam+8D9
+    CallWindowProcW+3BD
+    SendMessageW+38C
+    LookupIconIdFromDirectoryEx+AAF
+    CreateDialogIndirectParamAorW+57
+
+1 blocks 32 bytes
+    appRealloc+2B
+    FArray::GrowArray+EC
+    FArray::InsertUninitialized+36
+    TArray<unsigned char>::AddUninitialized+32
+    FString::FString+62
+    UIMenuButton::UIMenuButton+52
+    UIPackageDialog::InitUI+146F
+    UIBaseDialog::WndProc+D1
+    UIBaseDialog::StaticWndProc+8A
+    IsWindowInDestroy+A34
+    IsWindowInDestroy+192
+    UnpackDDElParam+8D9
+    CallWindowProcW+3BD
+    SendMessageW+38C
+    LookupIconIdFromDirectoryEx+AAF
+    CreateDialogIndirectParamAorW+57
+
+1 blocks 32 bytes
+    appRealloc+2B
+    FArray::GrowArray+EC
+    FArray::InsertUninitialized+36
+    TArray<unsigned char>::AddUninitialized+32
+    FString::FString+62
+    UIMenuButton::UIMenuButton+52
+    UIPackageDialog::InitUI+14B6
+    UIBaseDialog::WndProc+D1
+    UIBaseDialog::StaticWndProc+8A
+    IsWindowInDestroy+A34
+    IsWindowInDestroy+192
+    UnpackDDElParam+8D9
+    CallWindowProcW+3BD
+    SendMessageW+38C
+    LookupIconIdFromDirectoryEx+AAF
+    CreateDialogIndirectParamAorW+57
+
+1 blocks 32 bytes
+    appRealloc+2B
+    FArray::GrowArray+EC
+    FArray::InsertUninitialized+36
+    TArray<unsigned char>::AddUninitialized+32
+    FString::operator=+7C
+    UIMulticolumnListbox::AddColumn+8B
+    UIPackageList::UIPackageList+97
+    UIPackageDialog::CreatePackageListControl+39
+    UIPackageDialog::InitUI+7AE
+    UIBaseDialog::WndProc+D1
+    UIBaseDialog::StaticWndProc+8A
+    IsWindowInDestroy+A34
+    IsWindowInDestroy+192
+    UnpackDDElParam+8D9
+    CallWindowProcW+3BD
+    SendMessageW+38C
+
+1 blocks 32 bytes
+    appRealloc+2B
+    FArray::GrowArray+EC
+    FArray::InsertUninitialized+36
+    FArray::InsertZeroed+37
+    TArray<FVertInfluence>::AddZeroed+32
+    UIPackageList::GetSelectedPackages+30
+    UIPackageDialog::UpdateSelectedPackages+4C
+    UIPackageDialog::Show+69
+    CUmodelApp::ShowPackageUI+2F
+    main+BEA
+    __scrt_common_main_seh+10C
+    BaseThreadInitThunk+14
+    RtlUserThreadStart+21
+
+1 blocks 32 bytes
+    appRealloc+2B
+    FArray::GrowArray+EC
+    FArray::InsertUninitialized+36
+    TArray<unsigned char>::AddUninitialized+32
+    FString::FString+62
+    UIButton::UIButton+52
+    UIProgressDialog::InitUI+70
+    UIBaseDialog::WndProc+D1
+    UIBaseDialog::StaticWndProc+8A
+    IsWindowInDestroy+A34
+    IsWindowInDestroy+192
+    UnpackDDElParam+8D9
+    CallWindowProcW+3BD
+    SendMessageW+38C
+    LookupIconIdFromDirectoryEx+AAF
+    CreateDialogIndirectParamAorW+57
+
+1 blocks 32 bytes
+    appRealloc+2B
+    FArray::GrowArray+EC
+    FArray::InsertUninitialized+36
+    TArray<unsigned char>::AddUninitialized+32
+    FString::FString+62
+    UILabel::UILabel+42
+    UIProgressDialog::InitUI+1A6
+    UIBaseDialog::WndProc+D1
+    UIBaseDialog::StaticWndProc+8A
+    IsWindowInDestroy+A34
+    IsWindowInDestroy+192
+    UnpackDDElParam+8D9
+    CallWindowProcW+3BD
+    SendMessageW+38C
+    LookupIconIdFromDirectoryEx+AAF
+    CreateDialogIndirectParamAorW+57
+
+1 blocks 32 bytes
+    appRealloc+2B
+    FArray::GrowArray+EC
+    FArray::InsertUninitialized+36
+    TArray<unsigned char>::AddUninitialized+32
+    FString::FString+62
+    UILabel::UILabel+42
+    UIProgressDialog::InitUI+2A0
+    UIBaseDialog::WndProc+D1
+    UIBaseDialog::StaticWndProc+8A
+    IsWindowInDestroy+A34
+    IsWindowInDestroy+192
+    UnpackDDElParam+8D9
+    CallWindowProcW+3BD
+    SendMessageW+38C
+    LookupIconIdFromDirectoryEx+AAF
+    CreateDialogIndirectParamAorW+57
+
+1 blocks 32 bytes
+    appRealloc+2B
+    FArray::GrowArray+EC
+    FArray::InsertUninitialized+36
+    TArray<unsigned char>::AddUninitialized+32
+    FString::FString+62
+    UICheckbox::UICheckbox+5C
+    UIPackageDialog::InitUI+72E
+    UIBaseDialog::WndProc+D1
+    UIBaseDialog::StaticWndProc+8A
+    IsWindowInDestroy+A34
+    IsWindowInDestroy+192
+    UnpackDDElParam+8D9
+    CallWindowProcW+3BD
+    SendMessageW+38C
+    LookupIconIdFromDirectoryEx+AAF
+    CreateDialogIndirectParamAorW+57
+
+1 blocks 32 bytes
+    appRealloc+2B
+    FArray::GrowArray+EC
+    FArray::InsertUninitialized+36
+    TArray<unsigned char>::AddUninitialized+32
+    FString::operator=+7C
+    UIMulticolumnListbox::AddColumn+8B
+    UIPackageList::UIPackageList+D7
+    UIPackageDialog::CreatePackageListControl+39
+    UIPackageDialog::InitUI+7AE
+    UIBaseDialog::WndProc+D1
+    UIBaseDialog::StaticWndProc+8A
+    IsWindowInDestroy+A34
+    IsWindowInDestroy+192
+    UnpackDDElParam+8D9
+    CallWindowProcW+3BD
+    SendMessageW+38C
+
+1 blocks 32 bytes
+    appRealloc+2B
+    FArray::GrowArray+EC
+    FArray::InsertUninitialized+36
+    TArray<unsigned char>::AddUninitialized+32
+    FString::operator=+7C
+    UIMulticolumnListbox::AddColumn+8B
+    UIPackageList::UIPackageList+B7
+    UIPackageDialog::CreatePackageListControl+39
+    UIPackageDialog::InitUI+7AE
+    UIBaseDialog::WndProc+D1
+    UIBaseDialog::StaticWndProc+8A
+    IsWindowInDestroy+A34
+    IsWindowInDestroy+192
+    UnpackDDElParam+8D9
+    CallWindowProcW+3BD
+    SendMessageW+38C
+
+1 blocks 32 bytes
+    appRealloc+2B
+    FArray::GrowArray+EC
+    FArray::InsertUninitialized+36
+    TArray<unsigned char>::AddUninitialized+32
+    FString::operator=+7C
+    UIMulticolumnListbox::AddColumn+8B
+    UIPackageList::UIPackageList+97
+    UIPackageDialog::CreatePackageListControl+39
+    UIPackageDialog::InitUI+806
+    UIBaseDialog::WndProc+D1
+    UIBaseDialog::StaticWndProc+8A
+    IsWindowInDestroy+A34
+    IsWindowInDestroy+192
+    UnpackDDElParam+8D9
+    CallWindowProcW+3BD
+    SendMessageW+38C
+
+1 blocks 32 bytes
+    appRealloc+2B
+    FArray::GrowArray+EC
+    FArray::InsertUninitialized+36
+    TArray<unsigned char>::AddUninitialized+32
+    FString::operator=+7C
+    UILabel::SetText+46
+    UIProgressDialog::Progress+BB
+    CUmodelApp::ShowPackageUI+3A7
+    main+BEA
+    __scrt_common_main_seh+10C
+    BaseThreadInitThunk+14
+    RtlUserThreadStart+21
+
+1 blocks 32 bytes
+    appRealloc+2B
+    FArray::GrowArray+EC
+    FArray::InsertUninitialized+36
+    TArray<unsigned char>::AddUninitialized+32
+    FString::operator=+7C
+    UILabel::SetText+46
+    UIProgressDialog::Tick+40
+    LoadWholePackage+97
+    CUmodelApp::ShowPackageUI+3E9
+    main+BEA
+    __scrt_common_main_seh+10C
+    BaseThreadInitThunk+14
+    RtlUserThreadStart+21
+
+1 blocks 32 bytes
+    appRealloc+2B
+    FArray::GrowArray+EC
+    FArray::InsertUninitialized+36
+    TArray<UObject *>::Add+34
+    UnPackage::UnPackage+5C4
+    UnPackage::LoadPackage+D5
+    CUmodelApp::ShowPackageUI+188
+    main+BEA
+    __scrt_common_main_seh+10C
+    BaseThreadInitThunk+14
+    RtlUserThreadStart+21
+
+1 blocks 32 bytes
+    appRealloc+2B
+    FArray::GrowArray+EC
+    FArray::InsertUninitialized+36
+    TArray<unsigned char>::AddUninitialized+32
+    FString::operator=+7C
+    UILabel::SetText+46
+    UIProgressDialog::Tick+78
+    LoadWholePackage+97
+    CUmodelApp::ShowPackageUI+3E9
+    main+BEA
+    __scrt_common_main_seh+10C
+    BaseThreadInitThunk+14
+    RtlUserThreadStart+21
+
+2 blocks 24 bytes
+    FArray::Empty+A7
+    TArray<CVec3>::Empty+3C
+    FPackageFileSummary::Serialize3+BDC
+    FPackageFileSummary::Serialize+364
+    UnPackage::UnPackage+F5
+    UnPackage::LoadPackage+D5
+    UnPackage::CreateImport+63
+    UnPackage::operator<<+AA
+    operator<<+26
+    TArray<UMaterial *>::SerializeItem+37
+    FArray::Serialize+D5
+    operator<<+90
+    UMaterial3::Serialize+2C2
+    UObject::EndLoad+121
+    LoadWholePackage+B7
+    CUmodelApp::ShowPackageUI+3E9
+
+1 blocks 16 bytes
+    appRealloc+2B
+    FArray::GrowArray+EC
+    FArray::InsertUninitialized+36
+    TArray<unsigned char>::AddUninitialized+32
+    FString::operator=+7C
+    UIMulticolumnListbox::AddColumn+8B
+    UIPackageList::UIPackageList+117
+    UIPackageDialog::CreatePackageListControl+39
+    UIPackageDialog::InitUI+7AE
+    UIBaseDialog::WndProc+D1
+    UIBaseDialog::StaticWndProc+8A
+    IsWindowInDestroy+A34
+    IsWindowInDestroy+192
+    UnpackDDElParam+8D9
+    CallWindowProcW+3BD
+    SendMessageW+38C
+
+1 blocks 16 bytes
+    appRealloc+2B
+    FArray::GrowArray+EC
+    FArray::InsertUninitialized+36
+    TArray<unsigned char>::AddUninitialized+32
+    FString::operator=+7C
+    UIMulticolumnListbox::AddColumn+8B
+    UIPackageList::UIPackageList+117
+    UIPackageDialog::CreatePackageListControl+39
+    UIPackageDialog::InitUI+806
+    UIBaseDialog::WndProc+D1
+    UIBaseDialog::StaticWndProc+8A
+    IsWindowInDestroy+A34
+    IsWindowInDestroy+192
+    UnpackDDElParam+8D9
+    CallWindowProcW+3BD
+    SendMessageW+38C
+
+1 blocks 16 bytes
+    FArray::Empty+A7
+    TArray<CGameFileInfo const *>::Empty+3C
+    operator<<+1C6
+    FUE3ArchiveReader::PrepareBuffer+2BD
+    FUE3ArchiveReader::Serialize+13D
+    UnPackage::Serialize+35
+    FArchive::ByteOrderSerialize+2D
+    operator<<+23
+    UObject::Serialize+23F
+    UStaticMesh3::Serialize+26
+    UObject::EndLoad+121
+    LoadWholePackage+B7
+    CUmodelApp::ShowPackageUI+3E9
+    main+BEA
+    __scrt_common_main_seh+10C
+    BaseThreadInitThunk+14
+
+1 blocks 12 bytes
+    FArray::Empty+A7
+    TArray<CVec3>::Empty+3C
+    FPackageFileSummary::Serialize3+BDC
+    FPackageFileSummary::Serialize+364
+    UnPackage::UnPackage+F5
+    UnPackage::LoadPackage+D5
+    CUmodelApp::ShowPackageUI+188
+    main+BEA
+    __scrt_common_main_seh+10C
+    BaseThreadInitThunk+14
+    RtlUserThreadStart+21
+
+2 blocks 10 bytes
+    FArray::Empty+A7
+    TArray<char>::Empty+3C
+    FString::Empty+1E
+    operator<<+D6
+    FPackageFileSummary::Serialize3+392
+    FPackageFileSummary::Serialize+364
+    UnPackage::UnPackage+F5
+    UnPackage::LoadPackage+D5
+    UnPackage::CreateImport+63
+    UnPackage::operator<<+AA
+    operator<<+26
+    TArray<UMaterial *>::SerializeItem+37
+    FArray::Serialize+D5
+    operator<<+90
+    UMaterial3::Serialize+2C2
+    UObject::EndLoad+121
+
+1 blocks 8 bytes
+    FArray::Empty+A7
+    FArray::Serialize+7D
+    operator<<+90
+    operator<<+4AA
+    TArray<FStaticMeshSection3>::SerializeItem+4F
+    FArray::Serial

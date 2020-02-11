@@ -327,6 +327,7 @@ enum EGame
 		GAME_UC2,
 
 	GAME_UE3       = 0x0800000,
+		GAME_HAT = 0x0800000,
 		GAME_EndWar,
 		GAME_MassEffect,
 		GAME_MassEffect2,

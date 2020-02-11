@@ -345,6 +345,9 @@ const GameInfo GListOfGames[] = {
 #	if GRAV
 		G("GRAV", grav, GAME_GRAV),
 #	endif
+#	if HAT
+		G("A Hat in Time", hat, GAME_HAT),
+#	endif
 #endif // UNREAL3
 
 	// Unreal engine 4

@@ -122,6 +122,9 @@ struct FMeshBone
 	FName			Name;
 	unsigned		Flags;
 	VJointPos		BonePos;
+#if HAT
+	FVector			Scale;
+#endif
 	int				ParentIndex;			// 0 if this is the root bone.
 	int				NumChildren;
 
@@ -139,6 +142,13 @@ struct FMeshBone
 			goto ue3_unk;
 		}
 #endif // BATMAN
+#if HAT
+		if (Ar.Game == GAME_HAT && Ar.ArVer >=881)
+		{
+			Ar << B.Name << B.Flags << B.BonePos << B.Scale << B.NumChildren << B.ParentIndex;
+			goto ue3_unk;
+		}
+#endif
 		Ar << B.Name << B.Flags << B.BonePos << B.NumChildren << B.ParentIndex;
 #if AA2
 		if (Ar.Game == GAME_AA2)

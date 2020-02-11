@@ -2916,12 +2916,14 @@ struct FStaticMeshUVStream3
 			Ar << unk30;
 		}
 #endif
+
 		// prepare for UV serialization
 		if (S.NumTexCoords > MAX_MESH_UV_SETS)
 			appError("StaticMesh has %d UV sets", S.NumTexCoords);
 		GNumStaticUVSets   = S.NumTexCoords;
 		GUseStaticFloatUVs = (S.bUseFullPrecisionUVs != 0);
 		S.UV.BulkSerialize(Ar);
+
 		return Ar;
 
 		unguard;
@@ -3056,6 +3058,8 @@ struct FStaticMeshLODModel3
 	TArray<FEdge3>		Edges;
 	TArray<byte>		fEC;			// flags for faces? removed simultaneously with Edges
 
+//Some wierd data after this. How large is it and what is it?
+//Something is appended to this struct but what?
 	friend FArchive& operator<<(FArchive &Ar, FStaticMeshLODModel3 &Lod)
 	{
 		guard(FStaticMeshLODModel3<<);
@@ -3392,6 +3396,15 @@ struct FStaticMeshLODModel3
 			Ar << Indices3;
 			if (Indices3.Indices.Num())
 				appPrintf("LOD has extra index buffer (%d items)\n", Indices3.Indices.Num());
+
+#if HAT
+			if (Ar.Game == GAME_HAT && Ar.ArVer >= 881)
+			{
+				//133B of garbage data? variable size?
+				Ar.Seek(Ar.Tell()+78);
+				assert(Ar.Tell()<=Ar.GetStopper())
+			}
+#endif
 		}
 
 		return Ar;
@@ -3757,6 +3770,8 @@ version:
 	}
 	if (Ar.ArVer >= 823)
 	{
+
+
 		guard(SerializeExtraLOD);
 
 		int unkFlag;
@@ -3781,6 +3796,10 @@ version:
 		int f74;
 		Ar << f74;
 
+
+#if 0
+unklod_end:
+#endif
 		unguard;
 	}
 #if SHADOWS_DAMNED
@@ -3800,10 +3819,13 @@ version:
 lods:
 	Ar << Lods;
 
+
+
 //	Ar << f48;
 
 done:
 	DROP_REMAINING_DATA(Ar);
+
 
 	ConvertMesh();
 

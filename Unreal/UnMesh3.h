@@ -302,7 +302,7 @@ struct FRawAnimSequenceTrack
 	TArray<FVector>			PosKeys;
 	TArray<FQuat>			RotKeys;
 	TArray<float>			KeyTimes;		// UE3: obsolete
-#if UNREAL4
+#if UNREAL4 || HAT
 	TArray<FVector>			ScaleKeys;
 #endif
 
@@ -310,7 +310,7 @@ struct FRawAnimSequenceTrack
 		PROP_ARRAY(PosKeys,  FVector)
 		PROP_ARRAY(RotKeys,  FQuat)
 		PROP_ARRAY(KeyTimes, float)
-#if UNREAL4
+#if UNREAL4 || HAT
 		PROP_ARRAY(ScaleKeys, FVector)
 #endif
 	END_PROP_TABLE
@@ -337,9 +337,16 @@ struct FRawAnimSequenceTrack
 			T.RotKeys.BulkSerialize(Ar);
 			// newer version will not serialize times
 			if (Ar.ArVer < 604) T.KeyTimes.BulkSerialize(Ar);
+#if HAT
+			if (Ar.ArVer >= 881) T.ScaleKeys.BulkSerialize(Ar);
+#endif
 			return Ar;
 		}
-		return Ar << T.PosKeys << T.RotKeys << T.KeyTimes;
+		Ar << T.PosKeys << T.RotKeys << T.KeyTimes;
+#if HAT
+		Ar << T.ScaleKeys;
+#endif
+		return Ar;
 		unguard;
 	}
 };
